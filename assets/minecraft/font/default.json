@@ -1,0 +1,124 @@
+{
+  "providers": [
+    {
+      "ascent": 8,
+      "chars": ["ꈁ"],
+      "file": "custom/ui/ranks/voyageur.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["ꐁ"],
+      "file": "custom/ui/ranks/paysan.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["ꍩ"],
+      "file": "custom/ui/ranks/citoyen.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["ꐃ"],
+      "file": "custom/ui/ranks/bourgeois.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄟"],
+      "file": "custom/ui/ranks/comte.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄞"],
+      "file": "custom/ui/ranks/roi.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄝"],
+      "file": "custom/ui/ranks/empereur.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄜"],
+      "file": "custom/ui/ranks/vip.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄛"],
+      "file": "custom/ui/ranks/yt.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄿"],
+      "file": "custom/ui/ranks/old.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄚"],
+      "file": "custom/ui/ranks/helper.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄙"],
+      "file": "custom/ui/ranks/anim.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄘"],
+      "file": "custom/ui/ranks/modo.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄗"],
+      "file": "custom/ui/ranks/smodo.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄖"],
+      "file": "custom/ui/ranks/admin.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄕"],
+      "file": "custom/ui/ranks/dirigeant.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["鄔"],
+      "file": "custom/ui/ranks/fondateur.png",
+      "height": 8,
+      "type": "bitmap"
+    }
+  ]
+}
+// ꈁꐁꍩꐃ
