@@ -1,39 +1,39 @@
 {
-	"credit": "Made with Blockbench",
-	"textures": {
-		"1": "entity/alex",
-		"particle": "entity/alex"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 0],
-			"to": [10, 10, 10],
-			"faces": {
-				"north": {"uv": [2, 2, 4, 4], "texture": "#1"},
-				"east": {"uv": [0, 2, 2, 4], "texture": "#1"},
-				"south": {"uv": [6, 2, 8, 4], "texture": "#1"},
-				"west": {"uv": [4, 2, 6, 4], "texture": "#1"},
-				"up": {"uv": [2, 0, 4, 2], "rotation": 180, "texture": "#1"},
-				"down": {"uv": [4, 0, 6, 2], "rotation": 180, "texture": "#1"}
-			}
-		}
-	],
-	"display": {
-		"thirdperson_righthand": {
-			"scale": [0.37, 0.37, 0.37]
-		},
-		"thirdperson_lefthand": {
-			"scale": [0.41, 0.41, 0.41]
-		},
-		"firstperson_righthand": {
-			"scale": [0.36, 0.36, 0.36]
-		},
-		"firstperson_lefthand": {
-			"scale": [0.35, 0.35, 0.35]
-		},
-		"head": {
-			"translation": [3.85, 3.85, 3.85],
-			"scale": [1.28711, 1.28711, 1.28711]
-		}
-	}
+  "credit": "Made with Blockbench",
+  "textures": {
+    "1": "entity/alex",
+    "particle": "entity/alex"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [10, 10, 10],
+      "faces": {
+        "north": { "uv": [2, 2, 4, 4], "texture": "#1" },
+        "east": { "uv": [0, 2, 2, 4], "texture": "#1" },
+        "south": { "uv": [6, 2, 8, 4], "texture": "#1" },
+        "west": { "uv": [4, 2, 6, 4], "texture": "#1" },
+        "up": { "uv": [2, 0, 4, 2], "rotation": 180, "texture": "#1" },
+        "down": { "uv": [4, 0, 6, 2], "rotation": 180, "texture": "#1" }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "scale": [0.37, 0.37, 0.37]
+    },
+    "thirdperson_lefthand": {
+      "scale": [0.41, 0.41, 0.41]
+    },
+    "firstperson_righthand": {
+      "scale": [0.36, 0.36, 0.36]
+    },
+    "firstperson_lefthand": {
+      "scale": [0.35, 0.35, 0.35]
+    },
+    "head": {
+      "translation": [3.85, 3.85, 3.85],
+      "scale": [1.28711, 1.28711, 1.28711]
+    }
+  }
 }

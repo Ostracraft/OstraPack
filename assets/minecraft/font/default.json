@@ -120,25 +120,65 @@
       "type": "bitmap"
     },
 
-    {"ascent":-32768,"chars":[""],"file":"custom/ui/pixel_split.png","height":-3,"type":"bitmap"},
-		{
-            "type": "bitmap",
-            "file": "minecraft:custom/ui/fadeblack.png",
-            "ascent": 250,
-            "height": 1500,
-            "chars": ["⊽"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:custom/ui/letterboxblack.png",
-            "ascent": 220,
-            "height": 700,
-            "chars": ["ཬ"]
-        },
-		{"ascent":8,"chars":["뜀뜁뜂뜃뜄","뜅뜆뜇뜈뜉","뜊뜋뜌뜍뜎","뜏뜐뜑뜒뜓","뜔뜕뜖뜗뜘","뜙뜚뜛뜜뜝","뜞뜟뜠뜡뜢","뜣뜤뜥뜦뜧","뜨뜩뜪뜫뜬","뜭뜮뜯뜰뜱"],"file":"custom/emojis/emojis.png","height":10,"type":"bitmap"},
-		{"ascent":-2,"chars":["ꡑꡒ","ꡓꡔ"],"file":"custom/ui/ostra_logo.png","height":32,"type":"bitmap"},
-		{"ascent":-2,"chars":["ꡡꡢ","ꡣꡤ"],"file":"custom/ui/ostra_logo.png","height":64,"type":"bitmap"},
-		{"ascent":32,"chars":["ꡥꡦ","ꡧꡨ"],"file":"custom/ui/ostra_logo.png","height":64,"type":"bitmap"}
+    {
+      "ascent": -32768,
+      "chars": [""],
+      "file": "custom/ui/pixel_split.png",
+      "height": -3,
+      "type": "bitmap"
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/ui/fadeblack.png",
+      "ascent": 250,
+      "height": 1500,
+      "chars": ["⊽"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:custom/ui/letterboxblack.png",
+      "ascent": 220,
+      "height": 700,
+      "chars": ["ཬ"]
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "뜀뜁뜂뜃뜄",
+        "뜅뜆뜇뜈뜉",
+        "뜊뜋뜌뜍뜎",
+        "뜏뜐뜑뜒뜓",
+        "뜔뜕뜖뜗뜘",
+        "뜙뜚뜛뜜뜝",
+        "뜞뜟뜠뜡뜢",
+        "뜣뜤뜥뜦뜧",
+        "뜨뜩뜪뜫뜬",
+        "뜭뜮뜯뜰뜱"
+      ],
+      "file": "custom/emojis/emojis.png",
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -2,
+      "chars": ["ꡑꡒ", "ꡓꡔ"],
+      "file": "custom/ui/ostra_logo.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -2,
+      "chars": ["ꡡꡢ", "ꡣꡤ"],
+      "file": "custom/ui/ostra_logo.png",
+      "height": 64,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 32,
+      "chars": ["ꡥꡦ", "ꡧꡨ"],
+      "file": "custom/ui/ostra_logo.png",
+      "height": 64,
+      "type": "bitmap"
+    }
   ]
 }
-// ꈁꐁꍩꐃ
