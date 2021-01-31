@@ -1,0 +1,34 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/carrot_on_a_stick"
+	},
+
+	"overrides": [
+
+	{ "predicate": {"custom_model_data": 1}, "model": "item/custom/letterbox" },
+	{ "predicate": {"custom_model_data": 2}, "model": "item/custom/letterboxnotif" },
+	{ "predicate": {"custom_model_data": 3}, "model": "item/custom/poste" },
+
+	{ "predicate": {"custom_model_data": 1000}, "model": "item/custom/foxtail" },
+	{ "predicate": {"custom_model_data": 1001}, "model": "item/custom/hautdeforme" },
+	{ "predicate": {"custom_model_data": 1002}, "model": "item/custom/tetemouton" },
+	{ "predicate": {"custom_model_data": 1003}, "model": "item/custom/original_banner" },
+
+	{ "predicate": {"custom_model_data": 2000}, "model": "item/custom/skinlleg" },
+	{ "predicate": {"custom_model_data": 2001}, "model": "item/custom/skinrleg" },
+	{ "predicate": {"custom_model_data": 2002}, "model": "item/custom/skinbody" },
+	{ "predicate": {"custom_model_data": 2003}, "model": "item/custom/skinlarm" },
+	{ "predicate": {"custom_model_data": 2004}, "model": "item/custom/skinrarm" },
+	{ "predicate": {"custom_model_data": 2005}, "model": "item/custom/skinhead" },
+	{ "predicate": {"custom_model_data": 2006}, "model": "item/custom/ukulele" },
+
+	{ "predicate": {"custom_model_data": 3000}, "model": "item/custom/quad" },
+
+	{ "predicate": {"custom_model_data": 4000}, "model": "item/custom/lettrehere" },
+
+
+	{ "predicate": {"custom_model_data": 123456}, "model": "item/custom/backpack" }
+
+	]
+}
