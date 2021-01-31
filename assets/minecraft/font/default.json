@@ -2,119 +2,119 @@
   "providers": [
     {
       "ascent": 8,
-      "chars": ["ꈁ"],
+      "chars": ["\uaa01"],
       "file": "custom/ui/ranks/voyageur.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["ꐁ"],
+      "chars": ["\uaa02"],
       "file": "custom/ui/ranks/paysan.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["ꍩ"],
+      "chars": ["\uaa03"],
       "file": "custom/ui/ranks/citoyen.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["ꐃ"],
+      "chars": ["\uaa04"],
       "file": "custom/ui/ranks/bourgeois.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄟"],
+      "chars": ["\uaa05"],
       "file": "custom/ui/ranks/comte.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄞"],
+      "chars": ["\uaa06"],
       "file": "custom/ui/ranks/roi.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄝"],
+      "chars": ["\uaa07"],
       "file": "custom/ui/ranks/empereur.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄜"],
+      "chars": ["\uaa08"],
       "file": "custom/ui/ranks/vip.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄛"],
+      "chars": ["\uaa09"],
       "file": "custom/ui/ranks/yt.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄿"],
+      "chars": ["\uaa10"],
       "file": "custom/ui/ranks/old.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄚"],
+      "chars": ["\uaa11"],
       "file": "custom/ui/ranks/helper.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄙"],
+      "chars": ["\uaa12"],
       "file": "custom/ui/ranks/anim.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄘"],
+      "chars": ["\uaa13"],
       "file": "custom/ui/ranks/modo.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄗"],
+      "chars": ["\uaa14"],
       "file": "custom/ui/ranks/smodo.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄖"],
+      "chars": ["\uaa15"],
       "file": "custom/ui/ranks/admin.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄕"],
+      "chars": ["\uaa16"],
       "file": "custom/ui/ranks/dirigeant.png",
       "height": 8,
       "type": "bitmap"
     },
     {
       "ascent": 8,
-      "chars": ["鄔"],
+      "chars": ["\uaa17"],
       "file": "custom/ui/ranks/fondateur.png",
       "height": 8,
       "type": "bitmap"
