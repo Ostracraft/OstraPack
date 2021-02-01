@@ -121,6 +121,338 @@
     },
 
     {
+      "ascent": 8,
+      "chars": ["\uee01"],
+      "file": "custom/emojis/01.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee02"],
+      "file": "custom/emojis/02.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee03"],
+      "file": "custom/emojis/03.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee04"],
+      "file": "custom/emojis/04.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee05"],
+      "file": "custom/emojis/05.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee06"],
+      "file": "custom/emojis/06.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee07"],
+      "file": "custom/emojis/07.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee08"],
+      "file": "custom/emojis/08.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee09"],
+      "file": "custom/emojis/09.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee10"],
+      "file": "custom/emojis/10.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee11"],
+      "file": "custom/emojis/11.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee13"],
+      "file": "custom/emojis/13.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee14"],
+      "file": "custom/emojis/14.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee15"],
+      "file": "custom/emojis/15.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee16"],
+      "file": "custom/emojis/16.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee17"],
+      "file": "custom/emojis/17.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee19"],
+      "file": "custom/emojis/18.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee20"],
+      "file": "custom/emojis/20.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee21"],
+      "file": "custom/emojis/21.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee22"],
+      "file": "custom/emojis/22.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee23"],
+      "file": "custom/emojis/23.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee24"],
+      "file": "custom/emojis/24.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee25"],
+      "file": "custom/emojis/25.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee26"],
+      "file": "custom/emojis/26.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee27"],
+      "file": "custom/emojis/27.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee28"],
+      "file": "custom/emojis/28.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee29"],
+      "file": "custom/emojis/29.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee30"],
+      "file": "custom/emojis/30.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee31"],
+      "file": "custom/emojis/31.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee32"],
+      "file": "custom/emojis/32.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee33"],
+      "file": "custom/emojis/33.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee34"],
+      "file": "custom/emojis/34.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee35"],
+      "file": "custom/emojis/35.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee36"],
+      "file": "custom/emojis/36.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee37"],
+      "file": "custom/emojis/37.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee38"],
+      "file": "custom/emojis/38.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee39"],
+      "file": "custom/emojis/39.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee40"],
+      "file": "custom/emojis/40.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee41"],
+      "file": "custom/emojis/41.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee42"],
+      "file": "custom/emojis/42.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee43"],
+      "file": "custom/emojis/43.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee44"],
+      "file": "custom/emojis/44.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee45"],
+      "file": "custom/emojis/45.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee46"],
+      "file": "custom/emojis/46.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee47"],
+      "file": "custom/emojis/47.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee48"],
+      "file": "custom/emojis/48.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee49"],
+      "file": "custom/emojis/49.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+
+
+
+    {
       "ascent": -32768,
       "chars": [""],
       "file": "custom/ui/pixel_split.png",
