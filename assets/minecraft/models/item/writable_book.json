@@ -1,10 +1,13 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-	"layer0": "minecraft:item/writable_book"
-	},
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/writable_book"
+  },
 
-	"overrides": [
-	{ "predicate": {"custom_model_data": 1}, "model": "item/custom/lettrewrite" }
-	]
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "item/custom/lettrewrite"
+    }
+  ]
 }
