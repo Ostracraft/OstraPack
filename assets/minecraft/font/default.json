@@ -119,6 +119,13 @@
       "height": 8,
       "type": "bitmap"
     },
+    {
+      "ascent": 8,
+      "chars": ["\uaa18"],
+      "file": "custom/ui/ranks/roisorcier.png",
+      "height": 8,
+      "type": "bitmap"
+    },
 
     {
       "ascent": 8,
