@@ -1,11 +1,15 @@
 {
-  "parent": "item/handheld",
+	"parent": "item/handheld",
+	
+	"textures": {
+	
+		"layer0": "block/tripwire_hook"
 
-  "textures": {
-    "layer0": "block/tripwire_hook"
-  },
+	},
 
-  "overrides": [
-    { "predicate": { "custom_model_data": 123456 }, "model": "item/key" }
-  ]
+	"overrides": [
+	{ "predicate": {"custom_model_data": 123456}, "model": "item/key" }
+
+	]
+
 }

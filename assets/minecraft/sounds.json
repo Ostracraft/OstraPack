@@ -1,0 +1,84 @@
+{
+  "music.ostra.spawn": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/spawn",
+        "stream": true
+      }
+    ]
+  },
+  "music.ostra.wait1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/wait/wait1",
+        "stream": true
+      }
+    ]
+  },
+  "music.ostra.wait2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/wait/wait2",
+        "stream": true
+      }
+    ]
+  },
+  "music.ostra.wait3": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/wait/wait3",
+        "stream": true
+      }
+    ]
+  },
+  "music.ostra.wait4": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/wait/wait4",
+        "stream": true
+      }
+    ]
+  },
+  "music.ostra.wait5": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/wait/wait5",
+        "stream": true
+      }
+    ]
+  },
+    "music.ostra.validation": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "son/validation",
+        "stream": true
+      }
+    ]
+  },
+    "music.ostra.tranquilite": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "son/tranquilite",
+        "stream": true
+      }
+    ]
+  },
+    "music.ostra.slurpping": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "son/slurpping",
+        "stream": true
+      }
+    ]
+  }
+
+}

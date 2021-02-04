@@ -458,6 +458,20 @@
     },
 
 
+    {
+      "ascent": 23,
+      "chars": ["\u2f00"],
+      "file": "custom/ui/cat.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\u2f01"],
+      "file": "custom/ui/progretsgamepass.png",
+      "height": 8,
+      "type": "bitmap"
+    },
 
     {
       "ascent": -32768,
