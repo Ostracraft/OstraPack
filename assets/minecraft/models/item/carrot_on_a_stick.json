@@ -16,24 +16,16 @@
     { "predicate": { "custom_model_data": 3 }, "model": "item/custom/poste" },
 
     {
-      "predicate": { "custom_model_data": 1000 },
-      "model": "item/custom/foxtail"
-    },
-    {
-      "predicate": { "custom_model_data": 1001 },
-      "model": "item/custom/hautdeforme"
-    },
-    {
-      "predicate": { "custom_model_data": 1002 },
-      "model": "item/custom/tetemouton"
-    },
-    {
       "predicate": { "custom_model_data": 1003 },
       "model": "item/custom/original_banner"
     },
     {
       "predicate": { "custom_model_data": 1004 },
-      "model": "item/custom/wings"
+      "model": "item/custom/whitewings"
+    },
+    {
+      "predicate": { "custom_model_data": 1005 },
+      "model": "item/custom/blackwings"
     },
 
     {
@@ -60,16 +52,33 @@
       "predicate": { "custom_model_data": 2005 },
       "model": "item/custom/skinhead"
     },
-    {
-      "predicate": { "custom_model_data": 2006 },
-      "model": "item/custom/ukulele"
-    },
 
-    { "predicate": { "custom_model_data": 3000 }, "model": "item/custom/quad" },
+    { 
+      "predicate": { "custom_model_data": 3000 },
+      "model": "item/custom/quad" 
+    },
 
     {
       "predicate": { "custom_model_data": 4000 },
       "model": "item/custom/lettrehere"
+    },
+
+    {
+      "predicate": { "custom_model_data": 5000 },
+      "model": "item/custom/ukulele"
+    },
+
+    {
+      "predicate": { "custom_model_data": 6000 },
+      "model": "item/custom/foxtail"
+    },
+    {
+      "predicate": { "custom_model_data": 6001 },
+      "model": "item/custom/hautdeforme"
+    },
+    {
+      "predicate": { "custom_model_data": 6002 },
+      "model": "item/custom/tetemouton"
     },
 
     {

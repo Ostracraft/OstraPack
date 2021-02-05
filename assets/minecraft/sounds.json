@@ -53,6 +53,15 @@
       }
     ]
   },
+  "music.ostra.ukulele": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/ukulele",
+        "stream": true
+      }
+    ]
+  },
     "music.ostra.validation": {
     "category": "music",
     "sounds": [
