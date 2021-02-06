@@ -14,6 +14,10 @@
       "model": "item/custom/letterboxnotif"
     },
     { "predicate": { "custom_model_data": 3 }, "model": "item/custom/poste" },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "item/custom/specialitemrepair"
+    },
 
     {
       "predicate": { "custom_model_data": 1003 },
