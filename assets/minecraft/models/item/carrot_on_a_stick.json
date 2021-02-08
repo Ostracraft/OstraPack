@@ -84,6 +84,18 @@
       "predicate": { "custom_model_data": 6002 },
       "model": "item/custom/tetemouton"
     },
+    {
+      "predicate": { "custom_model_data": 6003 },
+      "model": "item/custom/coeur"
+    },
+    {
+      "predicate": { "custom_model_data": 6004 },
+      "model": "item/custom/lunettecoeur"
+    },
+    {
+      "predicate": { "custom_model_data": 6005 },
+      "model": "item/custom/rose"
+    },
 
     {
       "predicate": { "custom_model_data": 123456 },
