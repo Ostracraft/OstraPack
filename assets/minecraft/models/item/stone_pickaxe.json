@@ -1,14 +1,15 @@
 {
-  "parent": "item/handheld",
+	"parent": "item/handheld",
+	
+	"textures": {
+	
+		"layer0": "item/stone_pickaxe"
 
-  "textures": {
-    "layer0": "item/stone_pickaxe"
-  },
+	},
 
-  "overrides": [
-    {
-      "predicate": { "custom_model_data": 123456 },
-      "model": "item/spawner_pickaxe"
-    }
-  ]
+	"overrides": [
+	{ "predicate": {"custom_model_data": 123456}, "model": "item/spawner_pickaxe" }
+
+	]
+
 }

@@ -1,0 +1,69 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/cosmetics/blackwings",
+		"particle": "custom/cosmetics/blackwings"
+	},
+	"elements": [
+		{
+			"from": [-13.01161, 0, -3.49004],
+			"to": [9.98839, 15, -3.49004],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [17.51701, 19, 4.50996]},
+			"faces": {
+				"north": {"uv": [8, 4.13333, 15.73333, 11.46667], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 15], "texture": "#missing"},
+				"south": {"uv": [0.13333, 4.26667, 7.86667, 11.6], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 15], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [3.15492, 0, 10.87154],
+			"to": [26.15492, 15, 10.87154],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [33.15492, 19, 18.87154]},
+			"faces": {
+				"north": {"uv": [0.13333, 4.26667, 7.86667, 11.6], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 15], "texture": "#missing"},
+				"south": {"uv": [8, 4.26667, 15.73333, 11.6], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 15], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [20, -154, -351.75],
+			"translation": [-2.5, 0, -1],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [20, -154, -351.75],
+			"translation": [-2.5, 0, -1],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_righthand": {
+			"translation": [17, -3.25, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [17, -3.25, 0]
+		},
+		"ground": {
+			"translation": [0, 0, 2.5],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"gui": {
+			"rotation": [18, 149.75, 0],
+			"translation": [0, 0.5, 0],
+			"scale": [0.44141, 0.44141, 0.44141]
+		},
+		"head": {
+			"translation": [0, -42.25, 22.5],
+			"scale": [2.37695, 2.37695, 2.37695]
+		},
+		"fixed": {
+			"translation": [0, 1.75, 0.5]
+		}
+	}
+}

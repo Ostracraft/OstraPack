@@ -1,14 +1,15 @@
 {
-  "parent": "item/handheld",
+	"parent": "item/handheld",
+	
+	"textures": {
+	
+		"layer0": "item/iron_shovel"
 
-  "textures": {
-    "layer0": "item/iron_shovel"
-  },
+	},
 
-  "overrides": [
-    {
-      "predicate": { "custom_model_data": 123456 },
-      "model": "item/seedplanter"
-    }
-  ]
+	"overrides": [
+	{ "predicate": {"custom_model_data": 123456}, "model": "item/seedplanter" }
+
+	]
+
 }
