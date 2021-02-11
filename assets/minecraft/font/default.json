@@ -242,7 +242,7 @@
     {
       "ascent": 8,
       "chars": ["\uee19"],
-      "file": "custom/emojis/18.png",
+      "file": "custom/emojis/19.png",
       "height": 8,
       "type": "bitmap"
     },
@@ -453,6 +453,34 @@
       "ascent": 8,
       "chars": ["\uee49"],
       "file": "custom/emojis/49.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee50"],
+      "file": "custom/emojis/50.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee51"],
+      "file": "custom/emojis/51.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee52"],
+      "file": "custom/emojis/52.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\uee53"],
+      "file": "custom/emojis/53.png",
       "height": 8,
       "type": "bitmap"
     },
