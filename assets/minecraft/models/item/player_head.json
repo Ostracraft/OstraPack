@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:item/template_skull",
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 2000 },
+      "model": "item/custom/skinlleg"
+    },
+    {
+      "predicate": { "custom_model_data": 2001 },
+      "model": "item/custom/skinrleg"
+    },
+    {
+      "predicate": { "custom_model_data": 2002 },
+      "model": "item/custom/skinbody"
+    },
+    {
+      "predicate": { "custom_model_data": 2003 },
+      "model": "item/custom/skinlarm"
+    },
+    {
+      "predicate": { "custom_model_data": 2004 },
+      "model": "item/custom/skinrarm"
+    },
+    {
+      "predicate": { "custom_model_data": 2005 },
+      "model": "item/custom/skinhead"
+    }
+  ]
+}

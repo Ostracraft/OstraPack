@@ -484,6 +484,13 @@
       "height": 8,
       "type": "bitmap"
     },
+    {
+      "ascent": 8,
+      "chars": ["\uee54"],
+      "file": "custom/emojis/54.png",
+      "height": 8,
+      "type": "bitmap"
+    },
 
 
     {
