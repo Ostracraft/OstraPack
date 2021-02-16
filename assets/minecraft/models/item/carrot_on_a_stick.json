@@ -134,6 +134,12 @@
       "model": "item/custom/rose"
     },
 
+
+    {
+      "predicate": { "custom_model_data": 7000 },
+      "model": "item/custom/i-mote-canard"
+    },
+
     {
       "predicate": { "custom_model_data": 123456 },
       "model": "item/custom/backpack"
