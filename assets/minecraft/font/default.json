@@ -507,6 +507,13 @@
       "height": 8,
       "type": "bitmap"
     },
+    {
+      "ascent": 8,
+      "chars": ["\u2f02"],
+      "file": "custom/ui/gamepass.png",
+      "height": 8,
+      "type": "bitmap"
+    },
 
     {
       "ascent": -32768,

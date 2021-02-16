@@ -86,6 +86,22 @@
       "predicate": { "custom_model_data": 4005 },
       "model": "item/custom/cle_legendaire"
     },
+    {
+      "predicate": { "custom_model_data": 4006 },
+      "model": "item/custom/gamepasstext"
+    },
+    {
+      "predicate": { "custom_model_data": 4007 },
+      "model": "item/custom/transparent"
+    },
+    {
+      "predicate": { "custom_model_data": 4008 },
+      "model": "item/custom/coeurpermanant"
+    },
+    {
+      "predicate": { "custom_model_data": 4009 },
+      "model": "item/custom/bidulotron"
+    },
 
 
     {
