@@ -514,6 +514,13 @@
       "height": 8,
       "type": "bitmap"
     },
+    {
+      "ascent": -14,
+      "chars": ["\u2f03"],
+      "file": "custom/ui/ostracoin.png",
+      "height": 11,
+      "type": "bitmap"
+    },
 
     {
       "ascent": -32768,
@@ -553,6 +560,13 @@
       "file": "custom/emojis/emojis.png",
       "height": 10,
       "type": "bitmap"
+    },
+    {
+    "ascent":-16,
+    "chars":["ꢚꢛꢜꢝꢞꢟꢠꢡꢢꢣ"],
+    "file":"custom/ui/hud_numbers.png",
+    "height":8,
+    "type":"bitmap"
     },
     {
       "ascent": -2,

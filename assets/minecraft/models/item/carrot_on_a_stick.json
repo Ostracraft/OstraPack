@@ -102,6 +102,14 @@
       "predicate": { "custom_model_data": 4009 },
       "model": "item/custom/bidulotron"
     },
+    {
+      "predicate": { "custom_model_data": 4010 },
+      "model": "item/custom/baguettetranquillite"
+    },
+    {
+      "predicate": { "custom_model_data": 4011 },
+      "model": "item/custom/baguetteabsorption"
+    },
 
 
     {
