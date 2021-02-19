@@ -110,6 +110,10 @@
       "predicate": { "custom_model_data": 4011 },
       "model": "item/custom/baguetteabsorption"
     },
+    {
+      "predicate": { "custom_model_data": 4012 },
+      "model": "item/custom/ostracoins"
+    },
 
 
     {
