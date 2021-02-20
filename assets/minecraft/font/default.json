@@ -545,19 +545,8 @@
     },
     {
       "ascent": 8,
-      "chars": [
-        "뜀뜁뜂뜃뜄",
-        "뜅뜆뜇뜈뜉",
-        "뜊뜋뜌뜍뜎",
-        "뜏뜐뜑뜒뜓",
-        "뜔뜕뜖뜗뜘",
-        "뜙뜚뜛뜜뜝",
-        "뜞뜟뜠뜡뜢",
-        "뜣뜤뜥뜦뜧",
-        "뜨뜩뜪뜫뜬",
-        "뜭뜮뜯뜰뜱"
-      ],
-      "file": "custom/emojis/emojis.png",
+      "chars": ["뜀뜁뜂뜃뜄뜅뜆뜇뜈뜉뜊뜋뜌뜍뜎뜏뜐뜑뜒뜓뜔뜕뜖뜗뜘뜙"],
+      "file": "custom/ui/fonts/ailerons.png",
       "height": 10,
       "type": "bitmap"
     },

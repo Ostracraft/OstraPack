@@ -8,6 +8,15 @@
       }
     ]
   },
+  "music.ostra.intro": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/intro",
+        "stream": true
+      }
+    ]
+  },
   "music.ostra.wait1": {
     "category": "music",
     "sounds": [

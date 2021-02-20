@@ -176,6 +176,10 @@
       "model": "item/custom/lightofexp"
     },
 
+    {
+      "predicate": { "custom_model_data": 9000 },
+      "model": "item/custom/letterboxeffect"
+    },
 
     {
       "predicate": { "custom_model_data": 123456 },
