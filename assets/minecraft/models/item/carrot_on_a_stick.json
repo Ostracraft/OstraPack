@@ -114,6 +114,10 @@
       "predicate": { "custom_model_data": 4012 },
       "model": "item/custom/ostracoins"
     },
+    {
+      "predicate": { "custom_model_data": 4013 },
+      "model": "item/custom/fly"
+    },
 
 
     {
@@ -167,6 +171,11 @@
       "predicate": { "custom_model_data": 7004 },
       "model": "item/custom/i-mote-beaute"
     },
+    {
+      "predicate": { "custom_model_data": 8000 },
+      "model": "item/custom/lightofexp"
+    },
+
 
     {
       "predicate": { "custom_model_data": 123456 },
