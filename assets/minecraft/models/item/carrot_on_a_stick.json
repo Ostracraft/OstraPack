@@ -18,6 +18,14 @@
       "predicate": { "custom_model_data": 4 },
       "model": "item/custom/specialitemrepair"
     },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "item/custom/specialitemrepairready"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "item/custom/specialitemrepairload"
+    },
 
     {
       "predicate": { "custom_model_data": 1003 },
@@ -117,6 +125,14 @@
     {
       "predicate": { "custom_model_data": 4013 },
       "model": "item/custom/fly"
+    },
+    {
+      "predicate": { "custom_model_data": 4014 },
+      "model": "item/custom/salut"
+    },
+    {
+      "predicate": { "custom_model_data": 4015 },
+      "model": "item/custom/elytrajump"
     },
 
 

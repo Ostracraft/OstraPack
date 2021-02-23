@@ -75,6 +75,19 @@
 			}
 		},
 		{
+			"from": [6.9, 7, 6.9],
+			"to": [9.1, 12, 9.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 19, 15]},
+			"faces": {
+				"north": {"uv": [1, 1, 15, 15], "texture": "#5"},
+				"east": {"uv": [1, 1, 15, 15], "texture": "#5"},
+				"south": {"uv": [1, 1, 15, 15], "texture": "#5"},
+				"west": {"uv": [1, 1, 15, 15], "texture": "#5"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#5"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#5"}
+			}
+		},
+		{
 			"from": [1, 8, 1],
 			"to": [2, 14, 2],
 			"rotation": {"angle": 0, "axis": "y", "origin": [9, 16, 9]},
@@ -265,16 +278,16 @@
 		{
 			"name": "group",
 			"origin": [8, 7.7294, 15.34672],
-			"children": [1, 2, 3, 4]
+			"children": [1, 2, 3, 4, 5]
 		},
 		{
 			"name": "Antennes",
 			"origin": [9, 17, 22],
-			"children": [5, 6, 7, 8, 9, 10, 11, 12]
+			"children": [6, 7, 8, 9, 10, 11, 12, 13]
 		},
 		{
 			"name": "Electricity",
 			"origin": [1.5, 14.5, 8],
 			"children": []
-		}, 13, 14, 15, 16]
+		}, 14, 15, 16, 17]
 }
