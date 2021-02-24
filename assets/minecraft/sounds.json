@@ -97,6 +97,15 @@
         "stream": true
       }
     ]
+  },
+    "music.ostra.electricity": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "son/electricity",
+        "stream": true
+      }
+    ]
   }
 
 }

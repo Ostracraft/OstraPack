@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Testbaguette1",
+	"parent": "testbaguette2",
 	"textures": {
 		"5": "custom/palette"
 	},
