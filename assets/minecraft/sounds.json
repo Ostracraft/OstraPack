@@ -17,6 +17,24 @@
       }
     ]
   },
+  "music.ostra.aterrarenter": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/aterrarenter",
+        "stream": true
+      }
+    ]
+  },
+  "music.ostra.bestekenter": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/bestekenter",
+        "stream": true
+      }
+    ]
+  },
   "music.ostra.wait1": {
     "category": "music",
     "sounds": [
