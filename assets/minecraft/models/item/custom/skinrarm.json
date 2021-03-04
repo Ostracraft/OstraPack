@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "entity/alex",
-    "particle": "entity/alex"
+    "1": "custom/emote/skins/skindefault",
+    "particle": "custom/emote/skins/skindefault"
   },
   "elements": [
     {

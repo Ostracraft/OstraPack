@@ -484,6 +484,13 @@
       "height": 8,
       "type": "bitmap"
     },
+    {
+      "ascent": 8,
+      "chars": ["\uee54"],
+      "file": "custom/emojis/54.png",
+      "height": 8,
+      "type": "bitmap"
+    },
 
 
     {
@@ -498,6 +505,20 @@
       "chars": ["\u2f01"],
       "file": "custom/ui/progretsgamepass.png",
       "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": ["\u2f02"],
+      "file": "custom/ui/gamepass.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -14,
+      "chars": ["\u2f03"],
+      "file": "custom/ui/ostracoin.png",
+      "height": 11,
       "type": "bitmap"
     },
 
@@ -524,21 +545,17 @@
     },
     {
       "ascent": 8,
-      "chars": [
-        "뜀뜁뜂뜃뜄",
-        "뜅뜆뜇뜈뜉",
-        "뜊뜋뜌뜍뜎",
-        "뜏뜐뜑뜒뜓",
-        "뜔뜕뜖뜗뜘",
-        "뜙뜚뜛뜜뜝",
-        "뜞뜟뜠뜡뜢",
-        "뜣뜤뜥뜦뜧",
-        "뜨뜩뜪뜫뜬",
-        "뜭뜮뜯뜰뜱"
-      ],
-      "file": "custom/emojis/emojis.png",
+      "chars": ["뜀뜁뜂뜃뜄뜅뜆뜇뜈뜉뜊뜋뜌뜍뜎뜏뜐뜑뜒뜓뜔뜕뜖뜗뜘뜙"],
+      "file": "custom/ui/fonts/ailerons.png",
       "height": 10,
       "type": "bitmap"
+    },
+    {
+    "ascent":-16,
+    "chars":["ꢚꢛꢜꢝꢞꢟꢠꢡꢢꢣ"],
+    "file":"custom/ui/hud_numbers.png",
+    "height":8,
+    "type":"bitmap"
     },
     {
       "ascent": -2,
