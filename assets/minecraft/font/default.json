@@ -491,6 +491,13 @@
       "height": 8,
       "type": "bitmap"
     },
+    {
+      "ascent": 8,
+      "chars": ["\uee55"],
+      "file": "custom/emojis/discord.png",
+      "height": 8,
+      "type": "bitmap"
+    },
 
 
     {
@@ -528,6 +535,13 @@
       "file": "custom/ui/pixel_split.png",
       "height": -3,
       "type": "bitmap"
+    },        
+    {
+       "type": "bitmap",
+        "file": "custom/gui/game_menu.png",
+        "ascent": 13,
+        "height": 128,
+        "chars": ["ᅰ"]
     },
     {
       "type": "bitmap",
