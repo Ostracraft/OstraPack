@@ -528,6 +528,28 @@
       "height": 11,
       "type": "bitmap"
     },
+    {
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -62,
+      "chars": ["\u2f04"]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom/gui/login.png",
+      "ascent": 55,
+      "height": 125,
+      "chars": ["\u2f05"]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom/gui/register.png",
+      "ascent": 55,
+      "height": 125,
+      "chars": ["\u2f06"]
+    },
+
 
     {
       "ascent": -32768,
@@ -536,13 +558,6 @@
       "height": -3,
       "type": "bitmap"
     },        
-    {
-       "type": "bitmap",
-        "file": "custom/gui/game_menu.png",
-        "ascent": 13,
-        "height": 128,
-        "chars": ["ᅰ"]
-    },
     {
       "type": "bitmap",
       "file": "minecraft:custom/ui/fadeblack.png",
