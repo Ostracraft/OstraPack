@@ -529,6 +529,7 @@
       "type": "bitmap"
     },
     {
+      "_commentaire": "Negative font pour gui enclume (Register/login)",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -549,7 +550,36 @@
       "height": 125,
       "chars": ["\u2f06"]
     },
-
+    {
+      "type": "bitmap",
+      "file": "custom/gui/colis.png",
+      "ascent": 13,
+      "height": 128,
+      "chars": ["\u2f07"]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom/gui/poste.png",
+      "ascent": 19.5,
+      "height": 144,
+      "chars": ["\u2f08"]
+    },
+    {
+      "_commentaire": "Negative font pour gui coffre (poste)",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -10,
+      "chars": ["\u2f09"]
+    },
+    {
+      "_commentaire": "Negative font pour gui colis (poste)",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -10,
+      "chars": ["\u2f10"]
+    },
 
     {
       "ascent": -32768,
