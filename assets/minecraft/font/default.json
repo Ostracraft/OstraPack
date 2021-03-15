@@ -580,18 +580,66 @@
       "height": -10,
       "chars": ["\u2f10"]
     },
+    {
+      "type": "bitmap",
+      "file": "custom/gui/letterbox.png",
+      "ascent": 82,
+      "height": 256,
+      "chars": ["⼑⼒"]
+    },
+    {
+      "_commentaire": "Negative font pour gui letterbox personnel (poste)",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -79,
+      "chars": ["\u2f13"]
+    },
+    {
+      "_commentaire": "Negative font pour gui letterbox personnel > entre le gui et le pseudo (poste)",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -168,
+      "chars": ["\u2f14"]
+    },
 
+
+    {
+      "ascent": 7,
+      "chars": [
+      "豈更車賈滑串龜句龜契金喇奈懶癩羅",
+      "蘿螺裸邏樂洛烙珞落酪蘿螺裸邏樂洛",
+      "烙珞落酪駱亂卵欄爛蘭鸞嵐濫藍襤拉",
+      "臘蠟廊朗浪狼郎來冷勞擄櫓爐盧老蘆",
+      "虜路露魯鷺碌祿綠菉錄鹿論壟弄籠聾",
+      "牢磊賂雷壘屢樓淚漏累縷陋勒肋凜凌",
+      "稜綾菱陵讀拏樂諾丹寧怒率異北磻便",
+      "復不泌數索參塞省葉說殺辰沈拾若掠",
+      "略亮兩凉梁糧良諒量勵呂女廬旅濾礪",
+      "閭驪麗黎力曆歷轢年憐戀撚漣煉璉秊",
+      "練聯輦蓮連鍊列劣咽烈裂說廉念捻殮",
+      "簾獵令囹寧嶺怜玲瑩羚聆鈴零靈領例",
+      "禮醴隸惡了僚寮尿料樂燎療蓼遼龍暈",
+      "阮劉杻柳流溜琉留硫紐類六戮陸倫崙",
+      "淪輪律慄栗率隆利吏履易李梨泥理痢",
+      "罹裏裡里離匿溺吝燐璘藺隣鱗麟林淋"
+      ],
+      "height": 9,
+      "file": "custom/ui/fonts/unicode_page_00.png",
+      "type": "bitmap"
+    },
     {
       "ascent": -32768,
       "chars": [""],
       "file": "custom/ui/pixel_split.png",
       "height": -3,
       "type": "bitmap"
-    },        
+    },
     {
       "type": "bitmap",
       "file": "minecraft:custom/ui/fadeblack.png",
-      "ascent": 250,
+      "ascent": 230,
       "height": 1500,
       "chars": ["⊽"]
     },
