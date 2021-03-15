@@ -491,6 +491,13 @@
       "height": 8,
       "type": "bitmap"
     },
+    {
+      "ascent": 8,
+      "chars": ["\uee55"],
+      "file": "custom/emojis/discord.png",
+      "height": 8,
+      "type": "bitmap"
+    },
 
 
     {
@@ -521,6 +528,58 @@
       "height": 11,
       "type": "bitmap"
     },
+    {
+      "_commentaire": "Negative font pour gui enclume (Register/login)",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -62,
+      "chars": ["\u2f04"]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom/gui/login.png",
+      "ascent": 55,
+      "height": 125,
+      "chars": ["\u2f05"]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom/gui/register.png",
+      "ascent": 55,
+      "height": 125,
+      "chars": ["\u2f06"]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom/gui/colis.png",
+      "ascent": 13,
+      "height": 128,
+      "chars": ["\u2f07"]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom/gui/poste.png",
+      "ascent": 19.5,
+      "height": 144,
+      "chars": ["\u2f08"]
+    },
+    {
+      "_commentaire": "Negative font pour gui coffre (poste)",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -10,
+      "chars": ["\u2f09"]
+    },
+    {
+      "_commentaire": "Negative font pour gui colis (poste)",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -10,
+      "chars": ["\u2f10"]
+    },
 
     {
       "ascent": -32768,
@@ -528,7 +587,7 @@
       "file": "custom/ui/pixel_split.png",
       "height": -3,
       "type": "bitmap"
-    },
+    },        
     {
       "type": "bitmap",
       "file": "minecraft:custom/ui/fadeblack.png",

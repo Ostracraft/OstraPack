@@ -116,6 +116,24 @@
       }
     ]
   },
+    "music.ostra.back": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "son/back",
+        "stream": true
+      }
+    ]
+  },
+    "music.ostra.vote": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "son/vote",
+        "stream": true
+      }
+    ]
+  },
     "music.ostra.electricity": {
     "category": "music",
     "sounds": [
