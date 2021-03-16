@@ -8,8 +8,36 @@
 	},
 
 	"overrides": [
-	{ "predicate": {"custom_model_data": 123456}, "model": "item/money" }
+	{
+		"predicate": {"custom_model_data": 123456},
+		"model": "item/money"
+	},
 
-	]
+	{
+		"predicate": { "custom_model_data": 1 },
+		"model": "item/custom/oeuf"
+	},
+	{
+		"predicate": { "custom_model_data": 2 },
+		"model": "item/custom/oeuf2"
+	},
+	{
+		"predicate": { "custom_model_data": 3 },
+		"model": "item/custom/oeuf3"
+	},
+	{
+		"predicate": { "custom_model_data": 4 },
+		"model": "item/custom/oeuf4"
+	},
+	{
+		"predicate": { "custom_model_data": 5 },
+		"model": "item/custom/oeuf5"
+	},
+	{
+		"predicate": { "custom_model_data": 6 },
+		"model": "item/custom/oeuf6"
+	}
+
+]
 
 }
