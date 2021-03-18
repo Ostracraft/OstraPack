@@ -540,14 +540,14 @@
       "type": "bitmap",
       "file": "custom/gui/login.png",
       "ascent": 55,
-      "height": 125,
+      "height": 208,
       "chars": ["\u2f05"]
     },
     {
       "type": "bitmap",
       "file": "custom/gui/register.png",
       "ascent": 55,
-      "height": 125,
+      "height": 208,
       "chars": ["\u2f06"]
     },
     {
