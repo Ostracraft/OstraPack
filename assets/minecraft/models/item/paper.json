@@ -9,11 +9,6 @@
 
 	"overrides": [
 	{
-		"predicate": {"custom_model_data": 123456},
-		"model": "item/money"
-	},
-
-	{
 		"predicate": { "custom_model_data": 1 },
 		"model": "item/custom/oeuf"
 	},
@@ -36,8 +31,12 @@
 	{
 		"predicate": { "custom_model_data": 6 },
 		"model": "item/custom/oeuf6"
-	}
+	},
 
+	{
+		"predicate": {"custom_model_data": 123456 },
+		"model": "item/money"
+	}
 ]
 
 }

@@ -603,6 +603,13 @@
       "height": -168,
       "chars": ["\u2f14"]
     },
+    {
+      "ascent": -14,
+      "chars": ["\u2f15"],
+      "file": "custom/ui/easter_egg.png",
+      "height": 11,
+      "type": "bitmap"
+    },
 
 
     {
