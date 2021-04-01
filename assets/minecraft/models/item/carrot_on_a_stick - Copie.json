@@ -1,0 +1,221 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/carrot_on_a_stick"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "item/custom/letterbox"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "item/custom/letterboxnotif"
+    },
+    { "predicate": { "custom_model_data": 3 }, "model": "item/custom/poste" },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "item/custom/specialitemrepair"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "item/custom/specialitemrepairready"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "item/custom/specialitemrepairload"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "item/custom/emeraude_machine"
+    },
+
+    {
+      "predicate": { "custom_model_data": 1003 },
+      "model": "item/custom/original_banner"
+    },
+    {
+      "predicate": { "custom_model_data": 1004 },
+      "model": "item/custom/whitewings"
+    },
+    {
+      "predicate": { "custom_model_data": 1005 },
+      "model": "item/custom/blackwings"
+    },
+    {
+      "predicate": { "custom_model_data": 1006 },
+      "model": "item/custom/sac_recherche_d_oeuf"
+    },
+
+    {
+      "predicate": { "custom_model_data": 2000 },
+      "model": "item/custom/skinlleg"
+    },
+    {
+      "predicate": { "custom_model_data": 2001 },
+      "model": "item/custom/skinrleg"
+    },
+    {
+      "predicate": { "custom_model_data": 2002 },
+      "model": "item/custom/skinbody"
+    },
+    {
+      "predicate": { "custom_model_data": 2003 },
+      "model": "item/custom/skinlarm"
+    },
+    {
+      "predicate": { "custom_model_data": 2004 },
+      "model": "item/custom/skinrarm"
+    },
+    {
+      "predicate": { "custom_model_data": 2005 },
+      "model": "item/custom/skinhead"
+    },
+
+    { 
+      "predicate": { "custom_model_data": 3000 },
+      "model": "item/custom/quad" 
+    },
+
+    {
+      "predicate": { "custom_model_data": 4000 },
+      "model": "item/custom/lettrehere"
+    },
+    {
+      "predicate": { "custom_model_data": 4001 },
+      "model": "item/custom/cle_vote"
+    },
+    {
+      "predicate": { "custom_model_data": 4002 },
+      "model": "item/custom/cle_commune"
+    },
+    {
+      "predicate": { "custom_model_data": 4003 },
+      "model": "item/custom/cle_rare"
+    },
+    {
+      "predicate": { "custom_model_data": 4004 },
+      "model": "item/custom/cle_epic"
+    },
+    {
+      "predicate": { "custom_model_data": 4005 },
+      "model": "item/custom/cle_legendaire"
+    },
+    {
+      "predicate": { "custom_model_data": 4006 },
+      "model": "item/custom/gamepasstext"
+    },
+    {
+      "predicate": { "custom_model_data": 4007 },
+      "model": "item/custom/transparent"
+    },
+    {
+      "predicate": { "custom_model_data": 4008 },
+      "model": "item/custom/coeurpermanant"
+    },
+    {
+      "predicate": { "custom_model_data": 4009 },
+      "model": "item/custom/bidulotron"
+    },
+    {
+      "predicate": { "custom_model_data": 4010 },
+      "model": "item/custom/baguettetranquillite"
+    },
+    {
+      "predicate": { "custom_model_data": 4011 },
+      "model": "item/custom/baguetteabsorption"
+    },
+    {
+      "predicate": { "custom_model_data": 4012 },
+      "model": "item/custom/ostracoins"
+    },
+    {
+      "predicate": { "custom_model_data": 4013 },
+      "model": "item/custom/fly"
+    },
+    {
+      "predicate": { "custom_model_data": 4014 },
+      "model": "item/custom/salut"
+    },
+    {
+      "predicate": { "custom_model_data": 4015 },
+      "model": "item/custom/elytrajump"
+    },
+
+
+    {
+      "predicate": { "custom_model_data": 5000 },
+      "model": "item/custom/ukulele"
+    },
+
+    {
+      "predicate": { "custom_model_data": 6000 },
+      "model": "item/custom/foxtail"
+    },
+    {
+      "predicate": { "custom_model_data": 6001 },
+      "model": "item/custom/hautdeforme"
+    },
+    {
+      "predicate": { "custom_model_data": 6002 },
+      "model": "item/custom/tetemouton"
+    },
+    {
+      "predicate": { "custom_model_data": 6003 },
+      "model": "item/custom/coeur"
+    },
+    {
+      "predicate": { "custom_model_data": 6004 },
+      "model": "item/custom/lunettecoeur"
+    },
+    {
+      "predicate": { "custom_model_data": 6005 },
+      "model": "item/custom/rose"
+    },
+    {
+      "predicate": { "custom_model_data": 6006 },
+      "model": "item/custom/casquette_decontracte"
+    },
+
+
+    {
+      "predicate": { "custom_model_data": 7000 },
+      "model": "item/custom/i-mote-canard"
+    },
+    {
+      "predicate": { "custom_model_data": 7001 },
+      "model": "item/custom/i-mote-hello"
+    },
+    {
+      "predicate": { "custom_model_data": 7002 },
+      "model": "item/custom/i-mote-bye"
+    },
+    {
+      "predicate": { "custom_model_data": 7003 },
+      "model": "item/custom/i-mote-ok"
+    },
+    {
+      "predicate": { "custom_model_data": 7004 },
+      "model": "item/custom/i-mote-beaute"
+    },
+    {
+      "predicate": { "custom_model_data": 8000 },
+      "model": "item/custom/lightofexp"
+    },
+    {
+      "predicate": { "custom_model_data": 8001 },
+      "model": "item/custom/loupe"
+    },
+
+    {
+      "predicate": { "custom_model_data": 9000 },
+      "model": "item/custom/letterboxeffect"
+    },
+
+    {
+      "predicate": { "custom_model_data": 123456 },
+      "model": "item/custom/backpack"
+    }
+  ]
+}
