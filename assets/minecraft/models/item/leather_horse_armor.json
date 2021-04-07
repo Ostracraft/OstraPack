@@ -9,10 +9,18 @@
 		"predicate": { "custom_model_data": 1 },
 		"model": "item/custom/casquette_decontracte"
 	},
+	{
+		"predicate": { "custom_model_data": 2 },
+		"model": "item/custom/sunhat"
+	},
 
 	{
 		"predicate": { "custom_model_data": 1000 },
 		"model": "item/custom/paint_button"
+	},
+	{
+		"predicate": { "custom_model_data": 1001 },
+		"model": "item/custom/qualite_down1"
 	}
 ]
 }
