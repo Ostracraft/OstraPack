@@ -1,129 +1,144 @@
 {
   "providers": [
     {
-      "ascent": 8,
+      "_commentaire": "ꨁ",
+      "ascent": 7,
       "chars": ["\uaa01"],
       "file": "custom/ui/ranks/voyageur.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨂ",
+      "ascent": 7,
       "chars": ["\uaa02"],
       "file": "custom/ui/ranks/paysan.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨃ",
+      "ascent": 7,
       "chars": ["\uaa03"],
       "file": "custom/ui/ranks/citoyen.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨄ",
+      "ascent": 7,
       "chars": ["\uaa04"],
       "file": "custom/ui/ranks/bourgeois.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨅ",
+      "ascent": 7,
       "chars": ["\uaa05"],
       "file": "custom/ui/ranks/comte.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨆ",
+      "ascent": 7,
       "chars": ["\uaa06"],
       "file": "custom/ui/ranks/roi.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨇ",
+      "ascent": 7,
       "chars": ["\uaa07"],
       "file": "custom/ui/ranks/empereur.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨈ",
+      "ascent": 7,
       "chars": ["\uaa08"],
       "file": "custom/ui/ranks/vip.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "ascent": 7,
       "chars": ["\uaa09"],
       "file": "custom/ui/ranks/yt.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "ascent": 7,
       "chars": ["\uaa10"],
       "file": "custom/ui/ranks/old.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "ascent": 7,
       "chars": ["\uaa11"],
       "file": "custom/ui/ranks/helper.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨒ",
+      "ascent": 7,
       "chars": ["\uaa12"],
       "file": "custom/ui/ranks/anim.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨓ",
+      "ascent": 7,
       "chars": ["\uaa13"],
       "file": "custom/ui/ranks/modo.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨔ",
+      "ascent": 7,
       "chars": ["\uaa14"],
       "file": "custom/ui/ranks/smodo.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨕ",
+      "ascent": 7,
       "chars": ["\uaa15"],
       "file": "custom/ui/ranks/admin.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨖ",
+      "ascent": 7,
       "chars": ["\uaa16"],
       "file": "custom/ui/ranks/dirigeant.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨗ",
+      "ascent": 7,
       "chars": ["\uaa17"],
       "file": "custom/ui/ranks/fondateur.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
     {
-      "ascent": 8,
+      "_commentaire": "ꨘ",
+      "ascent": 7,
       "chars": ["\uaa18"],
       "file": "custom/ui/ranks/roisorcier.png",
-      "height": 8,
+      "height": 7,
       "type": "bitmap"
     },
 
@@ -609,6 +624,243 @@
       "file": "custom/ui/easter_egg.png",
       "height": 11,
       "type": "bitmap"
+    },
+    {
+      "type": "bitmap",
+      "file": "custom/gui/casier.png",
+      "ascent": 13,
+      "height": 134,
+      "chars": ["\u2f16"]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom/gui/casier.png",
+      "ascent": 13,
+      "height": 134,
+      "chars": ["\u2f16"]
+    },
+    {
+      "type": "bitmap",
+      "file": "custom/gui/casier_selected.png",
+      "ascent": -1,
+      "height": 25,
+      "chars": ["\u2f17"]
+    },
+    {
+      "_commentaire": "Negative font pour gui casier > entre le gui et la base du gui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -179,
+      "chars": ["\u2f18"]
+    },
+    {
+      "_commentaire": "Positive font pour gui casier > entre la base du gui et la case 1 du gui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": 20,
+      "chars": ["\u2f19"]
+    },
+    {
+      "_commentaire": "Positive font pour gui casier > entre la base du gui et la case 2 du gui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": 47,
+      "chars": ["\u2f20"]
+    },
+    {
+      "_commentaire": "Positive font pour gui casier > entre la base du gui et la case 3 du gui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": 74,
+      "chars": ["\u2f21"]
+    },
+    {
+      "_commentaire": "⼢Positive font pour gui casier > entre la base du gui et la case 3 du gui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": 101,
+      "chars": ["\u2f22"]
+    },
+    {
+      "_commentaire": "⼣Positive font pour gui casier > entre la base du gui et la case 3 du gui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": 128,
+      "chars": ["\u2f23"]
+    },
+    {
+      "_commentaire": "⼤Negative font pour gui casier > entre la case 1 et la base du gui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -50,
+      "chars": ["\u2f24"]
+    },
+    {
+      "_commentaire": "⼥Negative font pour gui casier > entre la case 2 et la base du gui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -77,
+      "chars": ["\u2f25"]
+    },
+    {
+      "_commentaire": "⼦Negative font pour gui casier > entre la case 3 et la base du gui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -104,
+      "chars": ["\u2f26"]
+    },
+    {
+      "_commentaire": "⼧Negative font pour gui casier > entre la case 4 et la base du gui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -131,
+      "chars": ["\u2f27"]
+    },
+    {
+      "_commentaire": "⼨Negative font pour gui casier > entre la case 5 et la base du gui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -158,
+      "chars": ["\u2f28"]
+    },
+    {
+      "_commentaire": "⼩Affichage de la rareté dans le casier 1er colonne possibilité de changer de couleurs",
+      "type": "bitmap",
+      "file": "custom/gui/16_square.png",
+      "ascent": -41,
+      "height": 16,
+      "chars": ["\u2f29"]
+    },
+    {
+      "_commentaire": "⼰Positive font pour gui casier > Pour le permier élément de rareté de la ligne (Plus grand que les éspécement des autres raretées)",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": 24,
+      "chars": ["\u2f30"]
+    },
+    {
+      "_commentaire": "⼱Positive font pour gui casier > Entre chaques élément de rareté",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": 0,
+      "chars": ["\u2f31"]
+    },
+    {
+      "_commentaire": "⼲Negative font pour gui casier > Element de rareté retour à la base du gui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -153,
+      "chars": ["\u2f32"]
+    },
+    {
+      "_commentaire": "⼳Affichage de la rareté dans le casier 2eme colonne possibilité de changer de couleurs",
+      "type": "bitmap",
+      "file": "custom/gui/16_square.png",
+      "ascent": -59,
+      "height": 16,
+      "chars": ["\u2f33"]
+    },
+    {
+      "_commentaire": "⼴Affichage de la rareté dans le casier 3eme colonne possibilité de changer de couleurs",
+      "type": "bitmap",
+      "file": "custom/gui/16_square.png",
+      "ascent": -77,
+      "height": 16,
+      "chars": ["\u2f34"]
+    },
+    {
+      "_commentaire": "⼵Negative font : Aterrar = Affichage des mondes dans l'ui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -413,
+      "chars": ["\u2f35"]
+    },
+    {
+      "_commentaire": "⼶Affichage des mondes dans l'ui",
+      "type": "bitmap",
+      "file": "custom/ui/worlds/aterrar.png",
+      "ascent": 10,
+      "height": 21,
+      "chars": ["\u2f36"]
+    },
+    {
+      "_commentaire": "⼷Affichage des mondes dans l'ui",
+      "type": "bitmap",
+      "file": "custom/ui/worlds/bestek.png",
+      "ascent": 10,
+      "height": 21,
+      "chars": ["\u2f37"]
+    },
+    {
+      "_commentaire": "⼸Affichage des mondes dans l'ui",
+      "type": "bitmap",
+      "file": "custom/ui/worlds/ressources.png",
+      "ascent": 10,
+      "height": 21,
+      "chars": ["\u2f38"]
+    },
+    {
+      "_commentaire": "⼹Affichage des mondes dans l'ui",
+      "type": "bitmap",
+      "file": "custom/ui/worlds/end.png",
+      "ascent": 10,
+      "height": 21,
+      "chars": ["\u2f39"]
+    },
+    {
+      "_commentaire": "⽀Affichage des mondes dans l'ui",
+      "type": "bitmap",
+      "file": "custom/ui/worlds/nether.png",
+      "ascent": 10,
+      "height": 21,
+      "chars": ["\u2f40"]
+    },
+    {
+      "_commentaire": "⽁Negative font : Bestek = Affichage des mondes dans l'ui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -417,
+      "chars": ["\u2f41"]
+    },
+    {
+      "_commentaire": "⽂Negative font : Ressources = Affichage des mondes dans l'ui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -389,
+      "chars": ["\u2f42"]
+    },
+    {
+      "_commentaire": "⽃Negative font : End = Affichage des mondes dans l'ui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -433,
+      "chars": ["\u2f43"]
+    },
+    {
+      "_commentaire": "⽄Negative font : Nether = Affichage des mondes dans l'ui",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -416,
+      "chars": ["\u2f44"]
     },
 
 

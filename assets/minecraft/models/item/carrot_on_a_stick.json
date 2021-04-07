@@ -26,6 +26,10 @@
       "predicate": { "custom_model_data": 6 },
       "model": "item/custom/specialitemrepairload"
     },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "item/custom/emeraude_machine"
+    },
 
     {
       "predicate": { "custom_model_data": 1003 },
@@ -38,6 +42,10 @@
     {
       "predicate": { "custom_model_data": 1005 },
       "model": "item/custom/blackwings"
+    },
+    {
+      "predicate": { "custom_model_data": 1006 },
+      "model": "item/custom/sac_recherche_d_oeuf"
     },
 
     {
@@ -165,6 +173,10 @@
       "predicate": { "custom_model_data": 6005 },
       "model": "item/custom/rose"
     },
+    {
+      "predicate": { "custom_model_data": 6006 },
+      "model": "item/custom/casquette_decontracte"
+    },
 
 
     {
@@ -190,6 +202,10 @@
     {
       "predicate": { "custom_model_data": 8000 },
       "model": "item/custom/lightofexp"
+    },
+    {
+      "predicate": { "custom_model_data": 8001 },
+      "model": "item/custom/loupe"
     },
 
     {

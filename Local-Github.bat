@@ -1,6 +1,6 @@
 @echo off
 set /p name=Quel est ton pseudo ? 
-set /p comment=Quels sont les changement effectues ? 
+set /p comment=Quels sont les changements effectues ? 
 echo (%name%: %comment%)
 git pull
 git add -A
