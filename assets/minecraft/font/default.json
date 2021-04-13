@@ -513,6 +513,14 @@
       "height": 8,
       "type": "bitmap"
     },
+    {
+      "_commentaire": "",
+      "ascent": 8,
+      "chars": ["\uee56"],
+      "file": "custom/emojis/home.png",
+      "height": 8,
+      "type": "bitmap"
+    },
 
 
     {
@@ -640,6 +648,7 @@
       "chars": ["\u2f16"]
     },
     {
+      "_commentaire": "⼗",
       "type": "bitmap",
       "file": "custom/gui/casier_selected.png",
       "ascent": -1,
@@ -861,6 +870,30 @@
       "ascent": -32768,
       "height": -416,
       "chars": ["\u2f44"]
+    },
+    {
+      "_commentaire": "⽅Negative font pour gui casier > faire que le casier_selected.png ne prend aucunes places (Avant le caractère)",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -21,
+      "chars": ["\u2f45"]
+    },
+    {
+      "_commentaire": "⽆Negative font pour gui casier > faire que le casier_selected.png ne prend aucunes places (Après le caractère)",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -4,
+      "chars": ["\u2f46"]
+    },
+    {
+      "_commentaire": "⽇case de séléction du casier premiere colonne",
+      "type": "bitmap",
+      "file": "custom/gui/inventory_slot_selected.png",
+      "ascent": -39,
+      "height": 20,
+      "chars": ["\u2f47"]
     },
 
 
