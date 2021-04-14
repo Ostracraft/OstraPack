@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures":{
+		"layer0": "custom/gui/items/back_button_dim"
+	}
+}

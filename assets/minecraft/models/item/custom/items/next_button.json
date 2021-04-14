@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures":{
-		"layer0": "custom/ui/items/paint_button"
+		"layer0": "custom/gui/items/next_button"
 	}
 }

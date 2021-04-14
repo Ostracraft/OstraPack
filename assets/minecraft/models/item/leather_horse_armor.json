@@ -16,7 +16,7 @@
 
 	{
 		"predicate": { "custom_model_data": 1000 },
-		"model": "item/custom/paint_button"
+		"model": "item/custom/items/paint_button"
 	},
 	{
 		"predicate": { "custom_model_data": 1001 },
