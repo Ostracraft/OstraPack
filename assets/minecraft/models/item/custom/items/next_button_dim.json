@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures":{
+		"layer0": "custom/gui/items/next_button_dim"
+	}
+}

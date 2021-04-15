@@ -142,6 +142,30 @@
       "predicate": { "custom_model_data": 4015 },
       "model": "item/custom/elytrajump"
     },
+    {
+      "predicate": { "custom_model_data": 4016 },
+      "model": "item/custom/items/back_button"
+    },
+    {
+      "predicate": { "custom_model_data": 4017 },
+      "model": "item/custom/items/back_button_dim"
+    },
+    {
+      "predicate": { "custom_model_data": 4018 },
+      "model": "item/custom/items/next_button"
+    },
+    {
+      "predicate": { "custom_model_data": 4019 },
+      "model": "item/custom/items/next_button_dim"
+    },
+    {
+      "predicate": { "custom_model_data": 4020 },
+      "model": "item/custom/items/locked_button"
+    },
+    {
+      "predicate": { "custom_model_data": 4021 },
+      "model": "item/custom/items/unlocked_button"
+    },
 
 
     {
