@@ -898,13 +898,13 @@
     {
       "_commentaire": "⽈Affichage des mondes dans l'ui",
       "type": "bitmap",
-      "file": "custom/ui/worlds/tacocraft.png",
+      "file": "custom/ui/worlds/tacoak.png",
       "ascent": 10,
       "height": 21,
       "chars": ["\u2f48"]
     },
     {
-      "_commentaire": "⽉Negative font avant le monde tacocraft",
+      "_commentaire": "⽉PEUT ETRE MODIFIE",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,

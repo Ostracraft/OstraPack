@@ -10,7 +10,7 @@
 	"overrides": [
 	{
 		"predicate": { "custom_model_data": 1 },
-		"model": "item/custom/3d/items/tacos"
+		"model": "item/custom/3d/items/tacos_pourris"
     }
 ]
 
