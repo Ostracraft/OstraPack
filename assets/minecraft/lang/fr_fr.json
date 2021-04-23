@@ -2140,7 +2140,7 @@
     "container.furnace": "Fourneau",
     "container.grindstone_title": "Réparer et désenchanter",
     "container.hopper": "Entonnoir",
-    "container.inventory": "Inventaire",
+    "container.inventory": "",
     "container.isLocked": "%s verrouillé(e) !",
     "container.lectern": "Pupitre",
     "container.loom": "Métier à tisser",

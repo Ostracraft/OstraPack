@@ -581,6 +581,7 @@
       "chars": ["\u2f07"]
     },
     {
+      "_commentaire": "⼈ boite d'envoi(poste)",
       "type": "bitmap",
       "file": "custom/gui/poste.png",
       "ascent": 19.5,
@@ -596,7 +597,7 @@
       "chars": ["\u2f09"]
     },
     {
-      "_commentaire": "Negative font pour gui colis (poste)",
+      "_commentaire": "⼐Negative font pour gui colis (poste)",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -634,37 +635,32 @@
       "type": "bitmap"
     },
     {
+      "_commentaire": "⼖⽉⽐⽐ (⽐ = Trash) Affichage de la cabine prendre les 2 premiers caractères, image grande",
       "type": "bitmap",
-      "file": "custom/gui/casier.png",
-      "ascent": 13,
-      "height": 134,
-      "chars": ["\u2f16"]
-    },
-    {
-      "type": "bitmap",
-      "file": "custom/gui/casier.png",
-      "ascent": 13,
-      "height": 134,
-      "chars": ["\u2f16"]
+      "file": "custom/gui/cabine.png",
+      "ascent": 43,
+      "height": 150,
+      "chars": ["\u2f16\u2f49",
+                "\u2f50\u2f50"]
     },
     {
       "_commentaire": "⼗",
       "type": "bitmap",
-      "file": "custom/gui/casier_selected.png",
-      "ascent": -1,
+      "file": "custom/gui/cabine_selected.png",
+      "ascent": -19,
       "height": 25,
       "chars": ["\u2f17"]
     },
     {
-      "_commentaire": "Negative font pour gui casier > entre le gui et la base du gui",
+      "_commentaire": "⼘Negative font pour gui cabine > entre le gui et la base du gui",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
-      "height": -179,
+      "height": -214,
       "chars": ["\u2f18"]
     },
     {
-      "_commentaire": "Positive font pour gui casier > entre la base du gui et la case 1 du gui",
+      "_commentaire": "Positive font pour gui cabine > entre la base du gui et la case 1 du gui",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -672,7 +668,7 @@
       "chars": ["\u2f19"]
     },
     {
-      "_commentaire": "Positive font pour gui casier > entre la base du gui et la case 2 du gui",
+      "_commentaire": "Positive font pour gui cabine > entre la base du gui et la case 2 du gui",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -680,7 +676,7 @@
       "chars": ["\u2f20"]
     },
     {
-      "_commentaire": "Positive font pour gui casier > entre la base du gui et la case 3 du gui",
+      "_commentaire": "Positive font pour gui cabine > entre la base du gui et la case 3 du gui",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -688,7 +684,7 @@
       "chars": ["\u2f21"]
     },
     {
-      "_commentaire": "⼢Positive font pour gui casier > entre la base du gui et la case 3 du gui",
+      "_commentaire": "⼢Positive font pour gui cabine > entre la base du gui et la case 3 du gui",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -696,7 +692,7 @@
       "chars": ["\u2f22"]
     },
     {
-      "_commentaire": "⼣Positive font pour gui casier > entre la base du gui et la case 3 du gui",
+      "_commentaire": "⼣Positive font pour gui cabine > entre la base du gui et la case 3 du gui",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -704,7 +700,7 @@
       "chars": ["\u2f23"]
     },
     {
-      "_commentaire": "⼤Negative font pour gui casier > entre la case 1 et la base du gui",
+      "_commentaire": "⼤Negative font pour gui cabine > entre la case 1 et la base du gui",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -712,7 +708,7 @@
       "chars": ["\u2f24"]
     },
     {
-      "_commentaire": "⼥Negative font pour gui casier > entre la case 2 et la base du gui",
+      "_commentaire": "⼥Negative font pour gui cabine > entre la case 2 et la base du gui",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -720,7 +716,7 @@
       "chars": ["\u2f25"]
     },
     {
-      "_commentaire": "⼦Negative font pour gui casier > entre la case 3 et la base du gui",
+      "_commentaire": "⼦Negative font pour gui cabine > entre la case 3 et la base du gui",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -728,7 +724,7 @@
       "chars": ["\u2f26"]
     },
     {
-      "_commentaire": "⼧Negative font pour gui casier > entre la case 4 et la base du gui",
+      "_commentaire": "⼧Negative font pour gui cabine > entre la case 4 et la base du gui",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -736,7 +732,7 @@
       "chars": ["\u2f27"]
     },
     {
-      "_commentaire": "⼨Negative font pour gui casier > entre la case 5 et la base du gui",
+      "_commentaire": "⼨Negative font pour gui cabine > entre la case 5 et la base du gui",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -744,15 +740,15 @@
       "chars": ["\u2f28"]
     },
     {
-      "_commentaire": "⼩Affichage de la rareté dans le casier 1er colonne possibilité de changer de couleurs",
+      "_commentaire": "⼩Affichage de la rareté dans le cabine 1er colonne possibilité de changer de couleurs",
       "type": "bitmap",
       "file": "custom/gui/16_square.png",
-      "ascent": -41,
+      "ascent": -59,
       "height": 16,
       "chars": ["\u2f29"]
     },
     {
-      "_commentaire": "⼰Positive font pour gui casier > Pour le permier élément de rareté de la ligne (Plus grand que les éspécement des autres raretées)",
+      "_commentaire": "⼰Positive font pour gui cabine > Pour le permier élément de rareté de la ligne (Plus grand que les éspécement des autres raretées)",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -760,7 +756,7 @@
       "chars": ["\u2f30"]
     },
     {
-      "_commentaire": "⼱Positive font pour gui casier > Entre chaques élément de rareté",
+      "_commentaire": "⼱Positive font pour gui cabine > Entre chaques élément de rareté",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -768,7 +764,7 @@
       "chars": ["\u2f31"]
     },
     {
-      "_commentaire": "⼲Negative font pour gui casier > Element de rareté retour à la base du gui",
+      "_commentaire": "⼲Negative font pour gui cabine > Element de rareté retour à la base du gui",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -776,7 +772,7 @@
       "chars": ["\u2f32"]
     },
     {
-      "_commentaire": "⼳Affichage de la rareté dans le casier 2eme colonne possibilité de changer de couleurs",
+      "_commentaire": "⼳Affichage de la rareté dans le cabine 2eme colonne possibilité de changer de couleurs",
       "type": "bitmap",
       "file": "custom/gui/16_square.png",
       "ascent": -59,
@@ -784,7 +780,7 @@
       "chars": ["\u2f33"]
     },
     {
-      "_commentaire": "⼴Affichage de la rareté dans le casier 3eme colonne possibilité de changer de couleurs",
+      "_commentaire": "⼴Affichage de la rareté dans le cabine 3eme colonne possibilité de changer de couleurs",
       "type": "bitmap",
       "file": "custom/gui/16_square.png",
       "ascent": -77,
@@ -872,7 +868,7 @@
       "chars": ["\u2f44"]
     },
     {
-      "_commentaire": "⽅Negative font pour gui casier > faire que le casier_selected.png ne prend aucunes places (Avant le caractère)",
+      "_commentaire": "⽅Negative font pour gui cabine > faire que le cabine_selected.png ne prend aucunes places (Avant le caractère)",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -880,7 +876,7 @@
       "chars": ["\u2f45"]
     },
     {
-      "_commentaire": "⽆Negative font pour gui casier > faire que le casier_selected.png ne prend aucunes places (Après le caractère)",
+      "_commentaire": "⽆Negative font pour gui cabine > faire que le cabine_selected.png ne prend aucunes places (Après le caractère)",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
@@ -888,10 +884,10 @@
       "chars": ["\u2f46"]
     },
     {
-      "_commentaire": "⽇case de séléction du casier premiere colonne",
+      "_commentaire": "⽇case de séléction du cabine 1ere colonne",
       "type": "bitmap",
       "file": "custom/gui/inventory_slot_selected.png",
-      "ascent": -39,
+      "ascent": -57,
       "height": 20,
       "chars": ["\u2f47"]
     },
@@ -904,12 +900,45 @@
       "chars": ["\u2f48"]
     },
     {
-      "_commentaire": "⽉PEUT ETRE MODIFIE",
+      "_commentaire": "⽒Negative font pour gui cabine > affiche le premier caractère de cabine bien placé",
       "type": "bitmap",
       "file": "custom/ui/space_split.png",
       "ascent": -32768,
-      "height": -400,
-      "chars": ["\u2f49"]
+      "height": -74,
+      "chars": ["\u2f52"]
+    },
+    {
+      "_commentaire": "⽐⽐⽑⽓ (⽐ = Trash) Affichage de la cabine prendre les 2 dernier caractères (2 parties du bas), image grande",
+      "type": "bitmap",
+      "file": "custom/gui/cabine.png",
+      "ascent": -107,
+      "height": 150,
+      "chars": ["\u2f50\u2f50",
+                "\u2f51\u2f53"]
+    },
+    {
+      "_commentaire": "⽔Negative font pour gui cabine > l'image est coupé en 4, ceci est un négative font entre le 2 et le 3 eme caractère",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -248,
+      "chars": ["\u2f54"]
+    },
+    {
+      "_commentaire": "⽕ gui cabine > Si la personne n'a rien débloqué",
+      "type": "bitmap",
+      "file": "custom/gui/cabine_empty.png",
+      "ascent": -58,
+      "height": 54,
+      "chars": ["\u2f55"]
+    },
+    {
+      "_commentaire": "⽖ Positive font gui cabine > quand il n'y a pas de cosmetiques à afficher",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": 24,
+      "chars": ["\u2f56"]
     },
 
 

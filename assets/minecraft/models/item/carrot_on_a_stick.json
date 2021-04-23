@@ -30,6 +30,10 @@
       "predicate": { "custom_model_data": 7 },
       "model": "item/custom/emeraude_machine"
     },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "item/custom/3d/blocks/cabine"
+    },
 
     {
       "predicate": { "custom_model_data": 1003 },
@@ -46,6 +50,10 @@
     {
       "predicate": { "custom_model_data": 1006 },
       "model": "item/custom/sac_recherche_d_oeuf"
+    },
+    {
+      "predicate": { "custom_model_data": 1007 },
+      "model": "item/custom/3d/cosmetics/robe"
     },
 
     {
