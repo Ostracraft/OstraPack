@@ -140,6 +140,62 @@
       "file": "custom/ui/ranks/roisorcier.png",
       "height": 7,
       "type": "bitmap"
+    },   
+    {
+      "_commentaire": "ꨙ",
+      "ascent": 7,
+      "chars": ["\uaa19"],
+      "file": "custom/ui/scarcity/commun.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "_commentaire": "ऄ",
+      "ascent": 7,
+      "chars": ["\u0904"],
+      "file": "custom/ui/scarcity/atypique.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "_commentaire": "अ",
+      "ascent": 7,
+      "chars": ["\u0905"],
+      "file": "custom/ui/scarcity/rare.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "_commentaire": "आ",
+      "ascent": 7,
+      "chars": ["\u0906"],
+      "file": "custom/ui/scarcity/epique.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "_commentaire": "इ",
+      "ascent": 7,
+      "chars": ["\u0907"],
+      "file": "custom/ui/scarcity/legendaire.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "_commentaire": "ई",
+      "ascent": 7,
+      "chars": ["\u0908"],
+      "file": "custom/ui/scarcity/event.png",
+      "height": 7,
+      "type": "bitmap"
+    },
+    {
+      "_commentaire": "उ",
+      "ascent": 7,
+      "chars": ["\u0909"],
+      "file": "custom/ui/scarcity/customisable.png",
+      "height": 7,
+      "type": "bitmap"
     },
 
     {
