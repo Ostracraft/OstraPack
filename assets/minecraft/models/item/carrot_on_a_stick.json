@@ -191,7 +191,7 @@
     },
     {
       "predicate": { "custom_model_data": 6002 },
-      "model": "item/custom/tetemouton"
+      "model": "item/custom/3d/cosmetics/hat/tetemouton"
     },
     {
       "predicate": { "custom_model_data": 6003 },

@@ -996,6 +996,22 @@
       "height": 24,
       "chars": ["\u2f56"]
     },
+    {
+      "_commentaire": "⽗ gui table de customisation",
+      "type": "bitmap",
+      "file": "custom/gui/painting_table.png",
+      "ascent": 14,
+      "height": 132,
+      "chars": ["\u2f57"]
+    },
+    {
+      "_commentaire": "⽘ Negative font pour gui table de customisation > mise à la base",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -10,
+      "chars": ["\u2f58"]
+    },
 
 
     {
