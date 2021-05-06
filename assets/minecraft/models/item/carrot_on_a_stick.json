@@ -190,6 +190,10 @@
       "predicate": { "custom_model_data": 6006 },
       "model": "item/custom/casquette_decontracte"
     },
+    {
+      "predicate": { "custom_model_data": 6007 },
+      "model": "item/custom/3d/cosmetics/hat/masque_gaz"
+    },
 
 
     {
