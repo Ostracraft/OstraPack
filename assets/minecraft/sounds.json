@@ -116,6 +116,24 @@
       }
     ]
   },
+    "music.ostra.cabine_open": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "son/cabine_open",
+        "stream": true
+      }
+    ]
+  },
+    "music.ostra.cabine_close": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "son/cabine_close",
+        "stream": true
+      }
+    ]
+  },
     "music.ostra.back": {
     "category": "music",
     "sounds": [

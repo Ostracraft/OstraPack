@@ -1,0 +1,15 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stick"
+	},
+	"overrides": [
+	{ "predicate": {"custom_model_data": 4000}, "model": "item/custom/cle_vote" },
+	{ "predicate": {"custom_model_data": 4001}, "model": "item/custom/cle_commune" },
+	{ "predicate": {"custom_model_data": 4002}, "model": "item/custom/cle_rare" },
+	{ "predicate": {"custom_model_data": 4003}, "model": "item/custom/cle_epic" },
+	{ "predicate": {"custom_model_data": 4004}, "model": "item/custom/cle_legendaire" }
+
+	]
+
+}

@@ -7,7 +7,7 @@
   "overrides": [
 	{
 		"predicate": { "custom_model_data": 1 },
-		"model": "item/custom/casquette_decontracte"
+		"model": "item/custom/3d/cosmetics/hat/casquette_decontracte"
 	},
 	{
 		"predicate": { "custom_model_data": 2 },
@@ -21,6 +21,11 @@
 	{
 		"predicate": { "custom_model_data": 1001 },
 		"model": "item/custom/qualite_down1"
+	},
+
+	{
+		"predicate": { "custom_model_data": 2000 },
+		"model": "item/custom/3d/cosmetics/hand/sunshade"
 	}
 ]
 }

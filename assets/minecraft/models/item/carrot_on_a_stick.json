@@ -30,6 +30,10 @@
       "predicate": { "custom_model_data": 7 },
       "model": "item/custom/emeraude_machine"
     },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "item/custom/3d/blocks/cabine"
+    },
 
     {
       "predicate": { "custom_model_data": 1003 },
@@ -46,6 +50,10 @@
     {
       "predicate": { "custom_model_data": 1006 },
       "model": "item/custom/sac_recherche_d_oeuf"
+    },
+    {
+      "predicate": { "custom_model_data": 1007 },
+      "model": "item/custom/3d/cosmetics/robe"
     },
 
     {
@@ -82,26 +90,7 @@
       "predicate": { "custom_model_data": 4000 },
       "model": "item/custom/lettrehere"
     },
-    {
-      "predicate": { "custom_model_data": 4001 },
-      "model": "item/custom/cle_vote"
-    },
-    {
-      "predicate": { "custom_model_data": 4002 },
-      "model": "item/custom/cle_commune"
-    },
-    {
-      "predicate": { "custom_model_data": 4003 },
-      "model": "item/custom/cle_rare"
-    },
-    {
-      "predicate": { "custom_model_data": 4004 },
-      "model": "item/custom/cle_epic"
-    },
-    {
-      "predicate": { "custom_model_data": 4005 },
-      "model": "item/custom/cle_legendaire"
-    },
+    
     {
       "predicate": { "custom_model_data": 4006 },
       "model": "item/custom/gamepasstext"
@@ -183,7 +172,7 @@
     },
     {
       "predicate": { "custom_model_data": 6002 },
-      "model": "item/custom/tetemouton"
+      "model": "item/custom/3d/cosmetics/hat/tetemouton"
     },
     {
       "predicate": { "custom_model_data": 6003 },
@@ -200,6 +189,10 @@
     {
       "predicate": { "custom_model_data": 6006 },
       "model": "item/custom/casquette_decontracte"
+    },
+    {
+      "predicate": { "custom_model_data": 6007 },
+      "model": "item/custom/3d/cosmetics/hat/masque_gaz"
     },
 
 
