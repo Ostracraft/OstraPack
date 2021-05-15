@@ -1012,6 +1012,39 @@
       "height": -10,
       "chars": ["\u2f58"]
     },
+    {
+      "_commentaire": "⽙ Negative font pour gui magasin > mise à la base",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -10,
+      "chars": ["\u2f59"]
+    },
+    {
+      "_commentaire": "⽠ gui magasin",
+      "type": "bitmap",
+      "file": "custom/gui/magasin.png",
+      "ascent": 29,
+      "height": 238,
+      "chars": ["\u2f60"]
+    },
+    {
+      "_commentaire": "⽡ Negative font pour gui magasin > pour placer le merci directement",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -144,
+      "chars": ["\u2f61"]
+    },
+    {
+      "_commentaire": "⽢ gui magasin merci",
+      "type": "bitmap",
+      "file": "custom/gui/magasin_merci.png",
+      "ascent": -17,
+      "height": 64,
+      "chars": ["\u2f62"]
+    },
+
 
 
     {
