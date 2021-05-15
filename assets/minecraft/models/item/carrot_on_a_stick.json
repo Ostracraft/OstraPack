@@ -241,7 +241,7 @@
     },
     {
       "predicate": { "custom_model_data": 10002 },
-      "model": "item/custom/3d/quests/quest_repetable"
+      "model": "item/custom/3d/quests/quest_repeatable"
     },
 
     {

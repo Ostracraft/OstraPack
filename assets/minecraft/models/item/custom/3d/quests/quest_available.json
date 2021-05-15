@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/quest_unavailable",
-		"particle": "custom/quest_unavailable"
+		"0": "custom/quest_available",
+		"particle": "custom/quest_available"
 	},
 	"elements": [
 		{
@@ -44,7 +44,13 @@
 	],
 	"display": {
 		"ground": {
-			"translation": [0, 6.75, 0]
+			"translation": [0, 5, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [0, -42.75, 0],
+			"translation": [0, 2.75, 0],
+			"scale": [1.30078, 1.30078, 1.30078]
 		},
 		"head": {
 			"translation": [0, 19.75, 0],
