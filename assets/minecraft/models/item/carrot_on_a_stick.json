@@ -230,6 +230,20 @@
       "model": "item/custom/letterboxeffect"
     },
 
+
+    {
+      "predicate": { "custom_model_data": 10000 },
+      "model": "item/custom/3d/quests/quest_available"
+    },
+    {
+      "predicate": { "custom_model_data": 10001 },
+      "model": "item/custom/3d/quests/quest_unavailable"
+    },
+    {
+      "predicate": { "custom_model_data": 10002 },
+      "model": "item/custom/3d/quests/quest_repetable"
+    },
+
     {
       "predicate": { "custom_model_data": 123456 },
       "model": "item/custom/backpack"
