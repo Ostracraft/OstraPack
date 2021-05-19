@@ -55,6 +55,10 @@
       "predicate": { "custom_model_data": 1007 },
       "model": "item/custom/3d/cosmetics/robe"
     },
+    {
+      "predicate": { "custom_model_data": 1008 },
+      "model": "item/custom/3d/cosmetics/back/pride_wings"
+    },
 
     {
       "predicate": { "custom_model_data": 2000 },
