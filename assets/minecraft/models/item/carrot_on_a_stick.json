@@ -49,11 +49,11 @@
     },
     {
       "predicate": { "custom_model_data": 1006 },
-      "model": "item/custom/sac_recherche_d_oeuf"
+      "model": "item/custom/3d/cosmetics/back/exploration_bag"
     },
     {
       "predicate": { "custom_model_data": 1007 },
-      "model": "item/custom/3d/cosmetics/robe"
+      "model": "item/custom/3d/cosmetics/back/rabbit_brooch"
     },
     {
       "predicate": { "custom_model_data": 1008 },
@@ -198,6 +198,18 @@
       "predicate": { "custom_model_data": 6007 },
       "model": "item/custom/3d/cosmetics/hat/masque_gaz"
     },
+    {
+      "predicate": { "custom_model_data": 6008 },
+      "model": "item/custom/3d/cosmetics/hat/witch_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 6009 },
+      "model": "item/custom/3d/cosmetics/hat/space_helmet"
+    },
+    {
+      "predicate": { "custom_model_data": 6010 },
+      "model": "item/custom/3d/cosmetics/hat/halo"
+    },
 
 
     {
@@ -226,7 +238,11 @@
     },
     {
       "predicate": { "custom_model_data": 8001 },
-      "model": "item/custom/loupe"
+      "model": "item/custom/3d/cosmetics/hand/loupe"
+    },
+    {
+      "predicate": { "custom_model_data": 8002 },
+      "model": "item/custom/3d/cosmetics/hand/king_scepter"
     },
 
     {

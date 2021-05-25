@@ -39,6 +39,10 @@
 		"thirdperson_lefthand": {
 			"scale": [0.36719, 0.36719, 0.36719]
 		},
+		"gui": {
+			"rotation": [0, 160.75, 0],
+			"translation": [-2.25, 0, 0]
+		},
 		"head": {
 			"translation": [0, -46.75, 3.25],
 			"scale": [1.26172, 1.26172, 1.26172]

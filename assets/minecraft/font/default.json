@@ -197,6 +197,14 @@
       "height": 7,
       "type": "bitmap"
     },
+    {
+      "_commentaire": "ऐ",
+      "ascent": 7,
+      "chars": ["\u0910"],
+      "file": "custom/ui/ranks/graphiste.png",
+      "height": 7,
+      "type": "bitmap"
+    },
 
     {
       "ascent": 8,
@@ -1043,6 +1051,14 @@
       "ascent": -17,
       "height": 64,
       "chars": ["\u2f62"]
+    },
+    {
+      "_commentaire": "⽣ gui magasin cases event",
+      "type": "bitmap",
+      "file": "custom/gui/magasin_event.png",
+      "ascent": -17,
+      "height": 49,
+      "chars": ["\u2f63"]
     },
 
 
