@@ -1060,6 +1060,38 @@
       "height": 49,
       "chars": ["\u2f63"]
     },
+    {
+      "_commentaire": "⽤Affichage de la rareté dans le cabine 2eme colonne possibilité de changer de couleurs",
+      "type": "bitmap",
+      "file": "custom/gui/16_square.png",
+      "ascent": -77,
+      "height": 16,
+      "chars": ["\u2f64"]
+    },
+    {
+      "_commentaire": "⽥Affichage de la rareté dans le cabine 3eme colonne possibilité de changer de couleurs",
+      "type": "bitmap",
+      "file": "custom/gui/16_square.png",
+      "ascent": -95,
+      "height": 16,
+      "chars": ["\u2f65"]
+    },
+    {
+      "_commentaire": "⽦case de séléction du cabine 2eme colonne",
+      "type": "bitmap",
+      "file": "custom/gui/inventory_slot_selected.png",
+      "ascent": -75,
+      "height": 20,
+      "chars": ["\u2f66"]
+    },
+    {
+      "_commentaire": "⽧case de séléction du cabine 3eme colonne",
+      "type": "bitmap",
+      "file": "custom/gui/inventory_slot_selected.png",
+      "ascent": -93,
+      "height": 20,
+      "chars": ["\u2f67"]
+    },
 
 
 

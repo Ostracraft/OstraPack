@@ -59,6 +59,11 @@
       "predicate": { "custom_model_data": 1008 },
       "model": "item/custom/3d/cosmetics/back/pride_wings"
     },
+    {
+      "predicate": { "custom_model_data": 1009 },
+      "model": "item/custom/3d/cosmetics/back/pride_flag_cape"
+    },
+
 
     {
       "predicate": { "custom_model_data": 2000 },
@@ -209,6 +214,10 @@
     {
       "predicate": { "custom_model_data": 6010 },
       "model": "item/custom/3d/cosmetics/hat/halo"
+    },
+    {
+      "predicate": { "custom_model_data": 6011 },
+      "model": "item/custom/3d/cosmetics/hat/fsociety"
     },
 
 
