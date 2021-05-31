@@ -609,6 +609,7 @@
       "type": "bitmap"
     },
     {
+      "_commentaire": "⼃",
       "ascent": -14,
       "chars": ["\u2f03"],
       "file": "custom/ui/ostracoin.png",
@@ -1056,7 +1057,7 @@
       "_commentaire": "⽣ gui magasin cases event",
       "type": "bitmap",
       "file": "custom/gui/magasin_event.png",
-      "ascent": -17,
+      "ascent": -3,
       "height": 49,
       "chars": ["\u2f63"]
     },
@@ -1091,6 +1092,109 @@
       "ascent": -93,
       "height": 20,
       "chars": ["\u2f67"]
+    },
+    {
+      "_commentaire": "⽨Affichage de l'encart pour cliquer pour acceder à la boutique d'ostracoins",
+      "type": "bitmap",
+      "file": "custom/ui/open_ostracoins.png",
+      "ascent": 7,
+      "height": 44,
+      "chars": ["\u2f68"]
+    },
+    {
+      "_commentaire": "⽩ Negative font pour gui magasin > retour à la base après la création de base",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -179,
+      "chars": ["\u2f69"]
+    },
+    {
+      "_commentaire": "⽰ Positive font pour gui magasin > entre la base et le cadre event",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": 28,
+      "chars": ["\u2f70"]
+    },
+    {
+      "_commentaire": "⽱ Négative font pour gui magasin > entre la fin du cadre event et la base",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -150,
+      "chars": ["\u2f71"]
+    },
+    {
+      "_commentaire": "⽲ Rareté des items du gui magasin > 1er ligne",
+      "type": "bitmap",
+      "file": "custom/gui/22_square.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": ["\u2f72"]
+    },
+    {
+      "_commentaire": "⽳ Rareté des items du gui magasin > 2nd ligne",
+      "type": "bitmap",
+      "file": "custom/gui/22_square.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": ["\u2f73"]
+    },
+    {
+      "_commentaire": "⽴ Positive font pour gui magasin > entre la base et le 1er espacement du premier carée",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": 27,
+      "chars": ["\u2f74"]
+    },
+    {
+      "_commentaire": "⽵ Positive font pour gui magasin > entre 2 carré",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": 12,
+      "chars": ["\u2f75"]
+    },
+    {
+      "_commentaire": "⽶ Négative font pour gui magasin > entre le dernier gros carré de la ligne et la base",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -138,
+      "chars": ["\u2f76"]
+    },
+    {
+      "_commentaire": "⽷ Positive font pour gui magasin > entre la base et l'affichage du solde",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": 64,
+      "chars": ["\u2f77"]
+    },
+    {
+    "ascent":-98,
+    "chars":["⽸⽹⾀⾁⾂⾃⾄⾅⾆⾇"],
+    "file":"custom/ui/hud_numbers.png",
+    "height":8,
+    "type":"bitmap"
+    },
+    {
+      "_commentaire": "⾈ Negative font pour gui magasin > entre le merci et la base",
+      "type": "bitmap",
+      "file": "custom/ui/space_split.png",
+      "ascent": -32768,
+      "height": -144,
+      "chars": ["\u2f88"]
+    },
+    {
+      "_commentaire": "⾉",
+      "ascent": 8,
+      "chars": ["\u2f89"],
+      "file": "custom/ui/ostracoin.png",
+      "height": 11,
+      "type": "bitmap"
     },
 
 

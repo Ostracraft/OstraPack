@@ -134,6 +134,15 @@
       }
     ]
   },
+    "music.ostra.piece": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "son/piece",
+        "stream": true
+      }
+    ]
+  },
     "music.ostra.back": {
     "category": "music",
     "sounds": [

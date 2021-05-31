@@ -219,6 +219,15 @@
       "predicate": { "custom_model_data": 6011 },
       "model": "item/custom/3d/cosmetics/hat/fsociety"
     },
+    {
+      "predicate": { "custom_model_data": 6012 },
+      "model": "item/custom/3d/cosmetics/hat/lunettes_3d"
+    },
+    {
+      "predicate": { "custom_model_data": 6013 },
+      "model": "item/custom/3d/cosmetics/hat/oreilles_lapin"
+    },
+
 
 
     {
