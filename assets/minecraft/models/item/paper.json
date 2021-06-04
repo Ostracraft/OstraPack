@@ -32,6 +32,16 @@
 		"predicate": { "custom_model_data": 6 },
 		"model": "item/custom/oeuf6"
 	},
+	{
+		"predicate": { "custom_model_data": 1000 },
+		"model": "item/custom/3d/cosmetics/hat/pride_head"
+	},
+	{
+		"predicate": { "custom_model_data": 3000 },
+		"model": "item/custom/3d/cosmetics/hand/pride_hand"
+	},
+
+
 
 	{
 		"predicate": {"custom_model_data": 123456 },
