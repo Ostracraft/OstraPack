@@ -40,6 +40,10 @@
 		"predicate": { "custom_model_data": 3000 },
 		"model": "item/custom/3d/cosmetics/hand/pride_hand"
 	},
+	{
+		"predicate": { "custom_model_data": 4000 },
+		"model": "item/custom/3d/entities/gleush/gleush_head"
+	},
 
 
 
