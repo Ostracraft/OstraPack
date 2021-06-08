@@ -283,6 +283,11 @@
     },
 
     {
+      "predicate": { "custom_model_data": 11000 },
+      "model": "item/custom/3d/blocks/teleporteur"
+    },
+
+    {
       "predicate": { "custom_model_data": 123456 },
       "model": "item/custom/backpack"
     }
