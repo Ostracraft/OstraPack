@@ -44,7 +44,14 @@
 		"predicate": { "custom_model_data": 4000 },
 		"model": "item/custom/3d/entities/gleush/gleush_head"
 	},
-
+	{
+		"predicate": { "custom_model_data": 4001 },
+		"model": "item/custom/3d/entities/hoteldesventes/hoteldesventes_head"
+	},
+	{
+		"predicate": { "custom_model_data": 5000 },
+		"model": "item/custom/items/cleamolette"
+	},
 
 
 	{
