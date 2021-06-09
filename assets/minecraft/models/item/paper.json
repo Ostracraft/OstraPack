@@ -49,6 +49,10 @@
 		"model": "item/custom/3d/entities/hoteldesventes/hoteldesventes_head"
 	},
 	{
+		"predicate": { "custom_model_data": 4002 },
+		"model": "item/custom/3d/entities/inventeur/inventeur_head"
+	},
+	{
 		"predicate": { "custom_model_data": 5000 },
 		"model": "item/custom/items/cleamolette"
 	},
