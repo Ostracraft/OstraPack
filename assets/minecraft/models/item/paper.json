@@ -1,8 +1,8 @@
 {
 	"parent": "item/handheld",
-	
+
 	"textures": {
-	
+
 		"layer0": "item/paper"
 
 	},
@@ -57,10 +57,113 @@
 		"model": "item/custom/items/cleamolette"
 	},
 
-
 	{
 		"predicate": {"custom_model_data": 123456 },
 		"model": "item/money"
+	},
+	{
+		"predicate": { "custom_model_data": 20011 },
+		"model": "item/custom/optimization/galaxy-11"
+	},
+	{
+		"predicate": { "custom_model_data": 20012 },
+		"model": "item/custom/optimization/galaxy-12"
+	},
+	{
+		"predicate": { "custom_model_data": 20013 },
+		"model": "item/custom/optimization/galaxy-13"
+	},
+	{
+		"predicate": { "custom_model_data": 20014 },
+		"model": "item/custom/optimization/galaxy-14"
+	},
+	{
+		"predicate": { "custom_model_data": 20015 },
+		"model": "item/custom/optimization/galaxy-15"
+	},
+	{
+		"predicate": { "custom_model_data": 20021 },
+		"model": "item/custom/optimization/galaxy-21"
+	},
+	{
+		"predicate": { "custom_model_data": 20022 },
+		"model": "item/custom/optimization/galaxy-22"
+	},
+	{
+		"predicate": { "custom_model_data": 20023 },
+		"model": "item/custom/optimization/galaxy-23"
+	},
+	{
+		"predicate": { "custom_model_data": 20024 },
+		"model": "item/custom/optimization/galaxy-24"
+	},
+	{
+		"predicate": { "custom_model_data": 20025 },
+		"model": "item/custom/optimization/galaxy-22"
+	},
+	{
+		"predicate": { "custom_model_data": 20031 },
+		"model": "item/custom/optimization/galaxy-31"
+	},
+	{
+		"predicate": { "custom_model_data": 20032 },
+		"model": "item/custom/optimization/galaxy-32"
+	},
+	{
+		"predicate": { "custom_model_data": 20032 },
+		"model": "item/custom/optimization/galaxy-32"
+	},
+	{
+		"predicate": { "custom_model_data": 20033 },
+		"model": "item/custom/optimization/galaxy-33"
+	},
+	{
+		"predicate": { "custom_model_data": 20034 },
+		"model": "item/custom/optimization/galaxy-34"
+	},
+	{
+		"predicate": { "custom_model_data": 20035 },
+		"model": "item/custom/optimization/galaxy-35"
+	},
+	{
+		"predicate": { "custom_model_data": 20041 },
+		"model": "item/custom/optimization/galaxy-41"
+	},
+	{
+		"predicate": { "custom_model_data": 20042 },
+		"model": "item/custom/optimization/galaxy-42"
+	},
+	{
+		"predicate": { "custom_model_data": 20043 },
+		"model": "item/custom/optimization/galaxy-43"
+	},
+	{
+		"predicate": { "custom_model_data": 20044 },
+		"model": "item/custom/optimization/galaxy-44"
+	},
+	{
+		"predicate": { "custom_model_data": 20045 },
+		"model": "item/custom/optimization/galaxy-45"
+	},
+	{
+		"predicate": { "custom_model_data": 20051 },
+		"model": "item/custom/optimization/galaxy-51"
+	},
+	{
+		"predicate": { "custom_model_data": 20052 },
+		"model": "item/custom/optimization/galaxy-52"
+	},
+	{
+		"predicate": { "custom_model_data": 20053 },
+		"model": "item/custom/optimization/galaxy-53"
+	},
+	{
+		"predicate": { "custom_model_data": 20054 },
+		"model": "item/custom/optimization/galaxy-54"
+	},
+	{
+		"predicate": { "custom_model_data": 20055 },
+		"model": "item/custom/optimization/galaxy-55"
 	}
 ]
 
