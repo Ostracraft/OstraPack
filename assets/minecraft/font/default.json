@@ -153,7 +153,7 @@
       "_commentaire": "ꨠ",
       "ascent": 7,
       "chars": ["\uaa20"],
-      "file": "custom/ui/ranks/vip+.png",
+      "file": "custom/ui/ranks/vipplus.png",
       "height": 7,
       "type": "bitmap"
     },
@@ -161,7 +161,7 @@
       "_commentaire": "ꨡ",
       "ascent": 7,
       "chars": ["\uaa21"],
-      "file": "custom/ui/ranks/vip++.png",
+      "file": "custom/ui/ranks/vipplusplus.png",
       "height": 7,
       "type": "bitmap"
     },
