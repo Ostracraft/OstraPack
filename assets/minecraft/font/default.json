@@ -1239,6 +1239,14 @@
       "height": 115,
       "type": "bitmap"
     },
+    {
+      "_commentaire": "⾒",
+      "ascent": 8,
+      "chars": ["\u2f92"],
+      "file": "custom/items/money.png",
+      "height": 9,
+      "type": "bitmap"
+    },
 
 
 

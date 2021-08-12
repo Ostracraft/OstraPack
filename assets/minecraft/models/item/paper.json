@@ -58,10 +58,6 @@
 	},
 
 	{
-		"predicate": {"custom_model_data": 123456 },
-		"model": "item/money"
-	},
-	{
 		"predicate": { "custom_model_data": 20011 },
 		"model": "item/custom/optimization/galaxy-11"
 	},
@@ -164,6 +160,11 @@
 	{
 		"predicate": { "custom_model_data": 20055 },
 		"model": "item/custom/optimization/galaxy-55"
+	},
+
+	{
+			"predicate": {"custom_model_data": 123456 },
+			"model": "item/custom/items/money"
 	}
 ]
 
