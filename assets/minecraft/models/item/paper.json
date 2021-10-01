@@ -58,6 +58,15 @@
 	},
 
 	{
+		"predicate": { "custom_model_data": 6000 },
+		"model": "item/custom/items/spirit"
+	},
+	{
+		"predicate": { "custom_model_data": 6001 },
+		"model": "item/custom/items/spirit_orb"
+	},
+
+	{
 		"predicate": { "custom_model_data": 20011 },
 		"model": "item/custom/optimization/galaxy-11"
 	},
