@@ -72,6 +72,7 @@
       "type": "bitmap"
     },
     {
+      "_commentaire": "ꨐ",
       "ascent": 7,
       "chars": ["\uaa10"],
       "file": "custom/ui/ranks/old.png",
