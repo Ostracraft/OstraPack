@@ -65,6 +65,14 @@
 		"predicate": { "custom_model_data": 6001 },
 		"model": "item/custom/items/spirit_orb"
 	},
+	{
+		"predicate": { "custom_model_data": 6002 },
+		"model": "item/custom/items/spirit_monster"
+	},
+	{
+		"predicate": { "custom_model_data": 6003 },
+		"model": "item/custom/items/spirit_animal"
+	},
 
 	{
 		"predicate": { "custom_model_data": 20011 },
