@@ -498,6 +498,7 @@
       "type": "bitmap"
     },
     {
+      "_commentaire": "",
       "ascent": 8,
       "chars": ["\uee41"],
       "file": "custom/emojis/41.png",
@@ -596,6 +597,7 @@
       "type": "bitmap"
     },
     {
+      "_commentaire": "",
       "ascent": 8,
       "chars": ["\uee55"],
       "file": "custom/emojis/discord.png",
